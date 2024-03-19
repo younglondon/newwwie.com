@@ -16,20 +16,22 @@
         padding-top: 1.25rem;
         position: relative;
 
+        border-left: 3px solid $swatch-blue;
+
         @media (min-width: #{$breakpoint}) {
             flex-wrap: nowrap;
 
-            &:before {
-                background: $swatch-blue;
-                content: "";
-                height: 100%;
-                left: 0;
-                position: absolute;
-                top: 0;
-                transition: 0.2s linear all;
-                width: 1px;
-                z-index: 0;
-            }
+            // &:before {
+            //     background: $swatch-blue;
+            //     content: "";
+            //     height: 100%;
+            //     left: 0;
+            //     position: absolute;
+            //     top: 0;
+            //     transition: 0.2s linear all;
+            //     width: 1px;
+            //     z-index: 0;
+            // }
 
             &:nth-child(even):before {
                 width: 4px;

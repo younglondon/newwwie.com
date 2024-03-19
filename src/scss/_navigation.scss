@@ -1,10 +1,12 @@
 .nav {
-  background: #fff;
+  background: black;
   width: 100%;
   padding: 45px 5% 25px;
   display: flex;
   flex-direction: column;
   justify-content: flex-start;
+
+  border-right: 6px solid rgba(74, 79, 0, 0.406);
 
   @media (min-width: #{$breakpoint}) {
     width: 35%;
@@ -12,6 +14,7 @@
 
   a {
     color: $swatch-blue;
+
     display: block;
     text-decoration: none;
     margin: 0 0 0.55em;
@@ -23,7 +26,7 @@
     }
   }
 
-  > div:last-child {
+  >div:last-child {
     align-self: flex-end;
     width: 100%;
     flex: 1;
@@ -41,15 +44,14 @@
 .logo {
   color: $swatch-blue;
   display: block;
-  fill: $swatch-gray;
+  fill: $swatch-blue;
   height: auto;
   margin: 0 auto 0 0;
   max-width: 280px;
-  transform: translateX( (percentage(calc(50/370))*-1) )
-             translateY( (percentage(calc(56/203))*-1) );
+  transform: translateX((percentage(calc(50/370))*-1)) translateY((percentage(calc(56/203))*-1));
   width: 70%;
   transition: color 500ms ease-out,
-              fill 450ms ease-out;
+    fill 450ms ease-out;
 
   position: absolute;
   top: 10px;
@@ -60,7 +62,7 @@
   }
 
   &:hover {
-    color: #9e76ff;
+    color: rgb(237, 164, 28);
 
     .power-of-3 {
       animation: 800ms bounce;
