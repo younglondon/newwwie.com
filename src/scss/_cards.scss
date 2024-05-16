@@ -2,7 +2,7 @@
 
 .card {
   background: #fff;
-  border-left: 0.7em #85d4ed solid;
+  border-left: 0.3em $swatch-blue solid;
   padding: 0.5em 1em;
   margin-bottom: 1em;
 
@@ -22,5 +22,9 @@
 
   li {
     margin-bottom: 0.5em;
+  }
+  h4{
+    font-size: 1.7rem;
+
   }
 }

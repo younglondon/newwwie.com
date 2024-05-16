@@ -9,6 +9,19 @@
   <link rel="shortcut icon" href="./favicon.ico" type="image/x-icon">
   <link rel="stylesheet" href="./dist/css/main.css">
   <link rel="canonical" href="http://www.newwwie.com/" />
+  <script src="https://www.google.com/recaptcha/api.js"></script>
+  <script>
+    function onSubmit(token) {
+      var form = document.getElementById("demo-form");
+      if(form.checkValidity()){
+        form.submit();
+      }else{
+        grecaptcha.reset();
+        form.reportValidity();
+      }
+    }
+  </script>
+ 
 </head>
 <body>
 
@@ -106,8 +119,9 @@
     </p>
 
     <form method="POST"
-          action="https://formspree.io/newwwie.slack@gmail.com"
+          action="http://localhost/newwwie"
           class="form"
+          id="demo-form"
     >
       <input type="email"
              name="email"
@@ -154,9 +168,12 @@
              style="display:none"
       >
 
-      <button type="submit"
-              class="button"
-      >Request Invite</button>
+      <button type="submit" 
+      class="g-recaptcha button" 
+        data-sitekey="6LdFRd0pAAAAACRb5te2rXYlCJp8Q3NLThXOP2oK" 
+        data-callback='onSubmit' 
+        data-action='submit'>Request Invite</button>
+
 
     </form>
 
@@ -178,7 +195,8 @@
     <h1>An <strong>open community</strong> of digital creators in&nbsp;newcastle&nbsp;nsw.</h1>
     <div>
       <p>A bunch of novocastrians friends, co-workers that started talking tech and other random things.</p>
-      <p>To be a part of the conversation with 800+ locals. We use a <a href="http://www.slack.com">slack</a> channel.</p>
+      <p>To be a part of the conversation with 800+ locals,</p>
+      <p>join our <a href="http://www.slack.com">slack channel!</a></p>
     </div>
   </section>
 </main>
