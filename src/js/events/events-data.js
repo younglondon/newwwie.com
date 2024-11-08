@@ -1,4 +1,4 @@
-// Auto Generated on 2024-11-07T13:16:27.282Z
+// Auto Generated on 2024-11-08T13:16:32.555Z
  module.exports = [
   {
     "event": {
@@ -6,7 +6,7 @@
       "description": "In November, we'll be hearing from Heather on how she's mastered soft skills in hard environments. She'll pull on learnings from her dynamic career to share some of her key skills to surviving and thriving in complex workplaces.\n\nHeather Veronique Morris is a dedicated System Administrator and aspiring Cyber Security professional with over 12 years of experience in the tech industry. For seven years, she served as an Apple Certified Technician, honing her technical support skills and customer service expertise. Currently, she is a Network Technician in the Royal Australian Air Force, where she also takes on the role of IT Security Manager.\n\nAs a woman navigating a male-dominated field, she aims to encourage more women and girls to pursue careers in technology. Heather understands that entering and thriving in these environments can sometimes feel unwelcoming, and she is passionate about sharing the experiences and strategies she has developed to carve out her space.\n\n**5:30PM:** The event starts with a catch-up\n**6:00PM:** The presentation will begin\n\nDon't forget our 2024 location! We'll gather at the NewyTechPeople office at 9 Downie St, Maryville NSW for this event.\n\nEveryone is welcome to this event, regardless of gender- so share it with your friends. Through these speaker events, we aim to share experiences and knowledge, that's how we learn, and that's how we can improve the community for everyone. We provide food, so let us know of any allergies :)",
       "dateTime": "2024-11-14T17:30+11:00",
       "eventUrl": "https://www.meetup.com/newcastle-women-and-gender-diverse-people-in-tech/events/303895589",
-      "going": 17,
+      "going": 20,
       "maxTickets": 40,
       "duration": "PT2H",
       "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/518951708/676x380.webp",
@@ -39,7 +39,7 @@
       "description": "**🗣️Talk Description:** On this journey, we will discuss much about the human brain as this mystical, seemingly unattainable model. We'll also touch on the flaws and architectural design limitations of current artifical neural networks. Next will be a homage to spiking neural networks highlighting their more fantastic abilities juxtaposed to their curses. Finally we can cover some ground on where creativity stems from, and why we shouldn't let engineers model the brain. As a disclaimer the talk itself is going to be quite dense and probably a little too broad. However that's a consequence of adhd and I apologize for nothing.\n\n**🎙️Speaker Bio:** \"Hi. My name is Jacob Saunders, and I have been aggressively failing (and learning) for the last 10 years. I have failed at many things, ranging from McDonald's crew person, to professional battery builder all the way over to pure mathematician. These are my stories...\"\n\n🏢 **Venue**: University's Q building in Honeysuckle\n\n[https://goo.gl/maps/35LwcLhKV1nvoFAh7](https://goo.gl/maps/35LwcLhKV1nvoFAh7)\n\n* We will meet in the Level 2 Seminar Space.\n* You'll need to enter through the main doors on Worth Place, and will be directed to the elevators to join the meetup.\n* If you can't get in, please signal to the security guard that should be at the front desk that your here for the meetup.\n\nPARKING: The closest parking is Wright Lane Carpark.\n\n[https://goo.gl/maps/rj6Yg8EkpjYzUmbi7](https://goo.gl/maps/rj6Yg8EkpjYzUmbi7)\n\nAfter 5pm it is free and is a 400m - 5 minute walk.\n\nONLINE: At the request of the speaker we will setup a zoom link for those that want to join remotely. We will only have the zoom link shortly before the event starts so please keep an eye on the comments and meetup messages.\n\n##-------------------------------------------------------------------##\n\n🕠 TIME: 5.30pm - 7.30pm\n\nFOOD: 🍕 + 🥤\n\n* Wood fired pizza, sponsored by NewyTechPeople\n* Soft drinks\n\nSCHEDULE:\n\n* 5:30pm: Networking + Food + Drinks\n\n(Don't stress if you are held up in traffic)\n\n* 6:15pm: Presentation\n* 7:15pm: Packing up + Bonus questions\n* 7:30pm: Close\n* 7:30pm+: [Unofficially] anyone wanting to continue chatting, we usually head to [Honeysuckle Hotel](https://maps.app.goo.gl/z3e4JvSvYWb6quwn6) which is a short walk",
       "dateTime": "2024-11-21T17:30+11:00",
       "eventUrl": "https://www.meetup.com/hunter-data-analytics/events/301849003",
-      "going": 10,
+      "going": 11,
       "maxTickets": 0,
       "duration": "PT2H",
       "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/523891421/676x380.webp",
@@ -99,7 +99,7 @@
       "description": "We're bringing back tech trivia in December.\nIt's the same deal as the last few years, a fun, social way to end out the year.\nThe format will be 3 rounds, with prizes per round.\nSnacks and drinks, thanks to our sponsors.\n\nMore details to come.",
       "dateTime": "2024-12-11T18:00+11:00",
       "eventUrl": "https://www.meetup.com/newcastle-coders-group/events/302897285",
-      "going": 3,
+      "going": 4,
       "maxTickets": 0,
       "duration": "PT3H",
       "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/505406540/676x380.webp",
