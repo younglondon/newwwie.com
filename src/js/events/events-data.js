@@ -1,4 +1,4 @@
-// Auto Generated on 2024-11-08T13:16:32.555Z
+// Auto Generated on 2024-11-09T13:13:14.943Z
  module.exports = [
   {
     "event": {
@@ -6,7 +6,7 @@
       "description": "In November, we'll be hearing from Heather on how she's mastered soft skills in hard environments. She'll pull on learnings from her dynamic career to share some of her key skills to surviving and thriving in complex workplaces.\n\nHeather Veronique Morris is a dedicated System Administrator and aspiring Cyber Security professional with over 12 years of experience in the tech industry. For seven years, she served as an Apple Certified Technician, honing her technical support skills and customer service expertise. Currently, she is a Network Technician in the Royal Australian Air Force, where she also takes on the role of IT Security Manager.\n\nAs a woman navigating a male-dominated field, she aims to encourage more women and girls to pursue careers in technology. Heather understands that entering and thriving in these environments can sometimes feel unwelcoming, and she is passionate about sharing the experiences and strategies she has developed to carve out her space.\n\n**5:30PM:** The event starts with a catch-up\n**6:00PM:** The presentation will begin\n\nDon't forget our 2024 location! We'll gather at the NewyTechPeople office at 9 Downie St, Maryville NSW for this event.\n\nEveryone is welcome to this event, regardless of gender- so share it with your friends. Through these speaker events, we aim to share experiences and knowledge, that's how we learn, and that's how we can improve the community for everyone. We provide food, so let us know of any allergies :)",
       "dateTime": "2024-11-14T17:30+11:00",
       "eventUrl": "https://www.meetup.com/newcastle-women-and-gender-diverse-people-in-tech/events/303895589",
-      "going": 20,
+      "going": 21,
       "maxTickets": 40,
       "duration": "PT2H",
       "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/518951708/676x380.webp",
