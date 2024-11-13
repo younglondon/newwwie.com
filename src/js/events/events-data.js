@@ -1,4 +1,4 @@
-// Auto Generated on 2024-11-12T13:17:52.052Z
+// Auto Generated on 2024-11-13T13:17:45.502Z
  module.exports = [
   {
     "event": {
@@ -6,7 +6,7 @@
       "description": "In November, we'll be hearing from Heather on how she's mastered soft skills in hard environments. She'll pull on learnings from her dynamic career to share some of her key skills to surviving and thriving in complex workplaces.\n\nHeather Veronique Morris is a dedicated System Administrator and aspiring Cyber Security professional with over 12 years of experience in the tech industry. For seven years, she served as an Apple Certified Technician, honing her technical support skills and customer service expertise. Currently, she is a Network Technician in the Royal Australian Air Force, where she also takes on the role of IT Security Manager.\n\nAs a woman navigating a male-dominated field, she aims to encourage more women and girls to pursue careers in technology. Heather understands that entering and thriving in these environments can sometimes feel unwelcoming, and she is passionate about sharing the experiences and strategies she has developed to carve out her space.\n\n**5:30PM:** The event starts with a catch-up\n**6:00PM:** The presentation will begin\n\nDon't forget our 2024 location! We'll gather at the NewyTechPeople office at 9 Downie St, Maryville NSW for this event.\n\nEveryone is welcome to this event, regardless of gender- so share it with your friends. Through these speaker events, we aim to share experiences and knowledge, that's how we learn, and that's how we can improve the community for everyone. We provide food, so let us know of any allergies :)",
       "dateTime": "2024-11-14T17:30+11:00",
       "eventUrl": "https://www.meetup.com/newcastle-women-and-gender-diverse-people-in-tech/events/303895589",
-      "going": 24,
+      "going": 23,
       "maxTickets": 40,
       "duration": "PT2H",
       "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/518951708/676x380.webp",
@@ -96,7 +96,7 @@
   {
     "event": {
       "title": "December: Newwwie tech trivia",
-      "description": "We're bringing back tech trivia in December.\nIt's the same deal as the last few years, a fun, social way to end out the year.\nThe format will be 3 rounds, with prizes per round.\nSnacks and drinks, thanks to our sponsors.\n\nMore details to come.",
+      "description": "We're bringing back tech trivia in December.\nIt's the same deal as the last few years, a fun, social way to end out the year.\n\nThe format will be 3 rounds, with prizes per round.\nWe'll be hosted at the Happy Wombat with a generous bar tab and light food thanks to our sponsors, but you'll need to RSVP so you can get on the tab.\n\n**Do I need a team?** No, if you dont have a team ahead of time, that's fine our best teams have been made on the night.\n\n**I'm a student, am I welcome?** Absolutely, everyone is welcome, all you need is a vague interest in tech and to want to have fun.\n\n**I'm going to be later or have to leave early. Is that ok?** That's fine, we do prizes per round so you can arrive or leave as you need to.\n\n**How hard are the questions?** There are some hard ones, some easy ones, some stupid ones. We're not playing for sheep stations, so if you know nothing, that's fine.",
       "dateTime": "2024-12-11T18:00+11:00",
       "eventUrl": "https://www.meetup.com/newcastle-coders-group/events/302897285",
       "going": 5,
