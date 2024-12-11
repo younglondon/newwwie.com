@@ -1,38 +1,5 @@
-// Auto Generated on 2024-12-10T13:22:23.466Z
+// Auto Generated on 2024-12-11T13:21:54.443Z
  module.exports = [
-  {
-    "event": {
-      "title": "December: Newwwie tech trivia",
-      "description": "We're bringing back tech trivia in December.\nIt's the same deal as the last few years, a fun, social way to end out the year.\n\nThe format will be 3 rounds, with prizes per round.\nWe'll be hosted at the Happy Wombat with a generous bar tab and light food thanks to our sponsors, but you'll need to RSVP so you can get on the tab.\n\n**Do I need a team?** No, if you dont have a team ahead of time, that's fine our best teams have been made on the night.\n\n**I'm a student, am I welcome?** Absolutely, everyone is welcome, all you need is a vague interest in tech and to want to have fun.\n\n**I'm going to be later or have to leave early. Is that ok?** That's fine, we do prizes per round so you can arrive or leave as you need to.\n\n**How hard are the questions?** There are some hard ones, some easy ones, some stupid ones. We're not playing for sheep stations, so if you know nothing, that's fine.",
-      "dateTime": "2024-12-11T18:00+11:00",
-      "eventUrl": "https://www.meetup.com/newcastle-coders-group/events/302897285",
-      "going": 60,
-      "maxTickets": 100,
-      "duration": "PT3H",
-      "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/524684701/676x380.webp",
-      "venue": {
-        "name": "Happy Wombat",
-        "lat": -32.92756,
-        "lng": 151.76567,
-        "address": "575 Hunter St",
-        "city": "Newcastle"
-      }
-    },
-    "group": {
-      "name": "Newcastle Coders Group",
-      "urlname": "newcastle-coders-group",
-      "groupPhoto": {
-        "id": "505406540",
-        "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
-        "preview": null
-      },
-      "logo": {
-        "id": "505406540",
-        "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
-        "preview": null
-      }
-    }
-  },
   {
     "event": {
       "title": "data.FEB <- TBD Save the date",
