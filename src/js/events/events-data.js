@@ -1,5 +1,32 @@
-// Auto Generated on 2024-12-31T13:15:44.592Z
+// Auto Generated on 2025-01-01T13:15:20.045Z
  module.exports = [
+  {
+    "event": {
+      "title": "Feb: Startup Founders share their tech stacks",
+      "description": "**Startup tech stacks**\n\nFour technical cofounders will share a rapid-fire overview of the tech they are using to build and run their businesses. Come hear how they have designed their architecture, what they love, and what they regret.\nFeaturing:\n\\- Kelvin Htat\\, Licode \\(App builder\\)\n\\- Cameron Moore\\, Lyngo \\(Phone assistant for allied health clinics\\)\n\\- Steven Hodgson\\, NoVamps \\(Web app hosting\\)\n\\- Josh Leask\\, Seestone \\(Buying optimisation for fashion retailers\\)\n\nWe'll have free pizza and drinks thanks to our sponsors:\n\n* Newy Tech People\n* Saphi Engineering\n\nCome along to see how great products are being created here in Newcastle.",
+      "dateTime": "2025-02-05T18:00+11:00",
+      "eventUrl": "https://www.meetup.com/newcastle-coders-group/events/305355305",
+      "going": 1,
+      "maxTickets": 0,
+      "duration": "PT3H",
+      "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/505406540/676x380.webp",
+      "venue": null
+    },
+    "group": {
+      "name": "Newcastle Coders Group",
+      "urlname": "newcastle-coders-group",
+      "groupPhoto": {
+        "id": "505406540",
+        "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+        "preview": null
+      },
+      "logo": {
+        "id": "505406540",
+        "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+        "preview": null
+      }
+    }
+  },
   {
     "event": {
       "title": "data.FEB <- TBD Save the date",
@@ -28,6 +55,33 @@
       },
       "logo": {
         "id": "483576656",
+        "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+        "preview": null
+      }
+    }
+  },
+  {
+    "event": {
+      "title": "Tech Student Showcase",
+      "description": "Mark Wallis will bring along some of his top students to talk to us about their final year projects.\nThis will be a great chance to see the amazing entrepreneurship and problem-solving that is coming out of the current crop of UoN graduates.",
+      "dateTime": "2025-03-05T19:00+11:00",
+      "eventUrl": "https://www.meetup.com/newcastle-coders-group/events/305355319",
+      "going": 1,
+      "maxTickets": 0,
+      "duration": "PT3H",
+      "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/505406540/676x380.webp",
+      "venue": null
+    },
+    "group": {
+      "name": "Newcastle Coders Group",
+      "urlname": "newcastle-coders-group",
+      "groupPhoto": {
+        "id": "505406540",
+        "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+        "preview": null
+      },
+      "logo": {
+        "id": "505406540",
         "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
         "preview": null
       }
