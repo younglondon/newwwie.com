@@ -1,4 +1,4 @@
-// Auto Generated on 2025-01-08T13:17:39.379Z
+// Auto Generated on 2025-01-09T13:17:33.887Z
  module.exports = [
   {
     "event": {
@@ -6,7 +6,7 @@
       "description": "**Startup tech stacks**\n\nFour technical cofounders will share a rapid-fire overview of the tech they are using to build and run their businesses. Come hear how they have designed their architecture, what they love, and what they regret.\nFeaturing:\n\\- Kelvin Htat\\, Licode \\(App builder\\)\n\\- Cameron Moore\\, Lyngo \\(Phone assistant for allied health clinics\\)\n\\- Steven Hodgson\\, NoVamps \\(Web app hosting\\)\n\\- Josh Leask\\, Seestone \\(Buying optimisation for fashion retailers\\)\n\nWe'll have free pizza and drinks thanks to our sponsors:\n\n* Newy Tech People\n* Saphi Engineering\n\nCome along to see how great products are being created here in Newcastle.",
       "dateTime": "2025-02-05T18:00+11:00",
       "eventUrl": "https://www.meetup.com/newcastle-coders-group/events/305355305",
-      "going": 3,
+      "going": 4,
       "maxTickets": 0,
       "duration": "PT3H",
       "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/505406540/676x380.webp",
@@ -33,7 +33,7 @@
       "description": "The Women and Gender-Diverse People in Tech meetup returns in February, where we'll be hearing from the multi-talented Leanora Horne!\n\n**About the talk:**\nJoin Leanora as she shares powerful, personal stories of navigating depression and professional burnout, finding the courage to rebuild, and the ongoing work of maintaining mental health. Through honest reflections and lessons learned, Leanora will explore the tools and practices that helped her rediscover balance and thrive in both her career and personal life. This talk is a reminder that it’s okay to not be okay—and that recovery is possible with the right support and mindset.\n\n**About Leanora:**\nLeanora is a passionate product manager at Bradken, where she drives innovation in digital solutions, including condition monitoring and inspection technologies. With a background in engineering and experience spanning design, development, and climate tech initiatives, she combines technical expertise with a people-focused approach.\nA graduate of UNSW, Leanora has a deep commitment to creating inclusive workplaces and empowering future leaders, exemplified by her mentorship roles and her involvement with HunterWISE. Her work reflects her dedication to fostering collaboration and breaking barriers in traditionally male-dominated industries.\n\nLeanora's efforts continue to inspire meaningful change, blending technology, sustainability, and diversity in all she does\n\n**The details:**\n\n* **When**: Thursday, 13th February from 5:30PM to 7:30PM\n* **Where:** NewyTechPeople Office, 9 Downie Street, Maryville\n\nWe usually provide food, so let us know of any allergies :)",
       "dateTime": "2025-02-13T17:30+11:00",
       "eventUrl": "https://www.meetup.com/newcastle-women-and-gender-diverse-people-in-tech/events/305489280",
-      "going": 2,
+      "going": 4,
       "maxTickets": 40,
       "duration": "PT2H",
       "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/525603029/676x380.webp",
