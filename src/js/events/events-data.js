@@ -1,4 +1,4 @@
-// Auto Generated on 2025-01-12T13:13:36.026Z
+// Auto Generated on 2025-01-13T13:17:06.474Z
  module.exports = [
   {
     "event": {
@@ -6,7 +6,7 @@
       "description": "**Startup tech stacks**\n\nFour technical cofounders will share a rapid-fire overview of the tech they are using to build and run their businesses. Come hear how they have designed their architecture, what they love, and what they regret.\nFeaturing:\n\\- Kelvin Htat\\, Licode \\(App builder\\)\n\\- Cameron Moore\\, Lyngo \\(Phone assistant for allied health clinics\\)\n\\- Steven Hodgson\\, NoVamps \\(Web app hosting\\)\n\\- Josh Leask\\, Seestone \\(Buying optimisation for fashion retailers\\)\n\nWe'll have free pizza and drinks thanks to our sponsors:\n\n* Newy Tech People\n* Saphi Engineering\n\nCome along to see how great products are being created here in Newcastle.",
       "dateTime": "2025-02-05T18:00+11:00",
       "eventUrl": "https://www.meetup.com/newcastle-coders-group/events/305355305",
-      "going": 6,
+      "going": 7,
       "maxTickets": 0,
       "duration": "PT3H",
       "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/505406540/676x380.webp",
@@ -99,7 +99,7 @@
       "description": "Mark Wallis will bring along some of his top students to talk to us about their final year projects.\nThis will be a great chance to see the amazing entrepreneurship and problem-solving that is coming out of the current crop of UoN graduates.",
       "dateTime": "2025-03-05T19:00+11:00",
       "eventUrl": "https://www.meetup.com/newcastle-coders-group/events/305355319",
-      "going": 1,
+      "going": 2,
       "maxTickets": 0,
       "duration": "PT3H",
       "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/505406540/676x380.webp",
