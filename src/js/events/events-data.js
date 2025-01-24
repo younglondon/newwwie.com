@@ -1,4 +1,4 @@
-// Auto Generated on 2025-01-23T13:16:44.686Z
+// Auto Generated on 2025-01-24T13:15:38.009Z
  module.exports = [
   {
     "event": {
@@ -10,7 +10,13 @@
       "maxTickets": 0,
       "duration": "PT3H",
       "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/505406540/676x380.webp",
-      "venue": null
+      "venue": {
+        "name": "SSW Newcastle - Enterprise Software Development",
+        "lat": -32.926857,
+        "lng": 151.77159,
+        "address": "432 Hunter St",
+        "city": "Newcastle"
+      }
     },
     "group": {
       "name": "Newcastle Coders Group",
