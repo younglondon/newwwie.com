@@ -1,38 +1,5 @@
-// Auto Generated on 2025-02-04T13:16:53.849Z
+// Auto Generated on 2025-02-05T13:16:38.363Z
  module.exports = [
-  {
-    "event": {
-      "title": "Feb: Startup Founders share their tech stacks",
-      "description": "**Startup tech stacks**\n\nFour technical cofounders will share a rapid-fire overview of the tech they are using to build and run their businesses. Come hear how they have designed their architecture, what they love, and what they regret.\nFeaturing:\n\\- Kelvin Htat\\, Licode \\(App builder\\)\n\\- Cameron Moore\\, Lyngo \\(Phone assistant for allied health clinics\\)\n\\- Steven Hodgson\\, NoVamps \\(Web app hosting\\)\n\\- Josh Leask\\, Seestone \\(Buying optimisation for fashion retailers\\)\n\nWe'll have free pizza and drinks thanks to our sponsors:\n\n* SSW\n* Saphi Engineering\n\nCome along to see how great products are being created here in Newcastle.",
-      "dateTime": "2025-02-05T18:00+11:00",
-      "eventUrl": "https://www.meetup.com/newcastle-coders-group/events/305355305",
-      "going": 40,
-      "maxTickets": 0,
-      "duration": "PT3H",
-      "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/505406540/676x380.webp",
-      "venue": {
-        "name": "SSW Newcastle - Enterprise Software Development",
-        "lat": -32.926857,
-        "lng": 151.77159,
-        "address": "432 Hunter St",
-        "city": "Newcastle"
-      }
-    },
-    "group": {
-      "name": "Newcastle Coders Group",
-      "urlname": "newcastle-coders-group",
-      "groupPhoto": {
-        "id": "505406540",
-        "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
-        "preview": null
-      },
-      "logo": {
-        "id": "505406540",
-        "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
-        "preview": null
-      }
-    }
-  },
   {
     "event": {
       "title": "WGDPTech in February: Breakdowns, burnout and beyond  ",
@@ -105,7 +72,7 @@
       "description": "PLACEHOLDER\n\n**Event details:**\n\nDate: **WEDNESDAY** February 26th\n\nTime: 18:00-20:00\n\nVenue: 9 Downie St, Maryville NSW 2293 - Newy Tech People Office\n\nFood: PIZZAS Provided, please inform us of dietary requirements when RSVPing\n\nDrink: Non-alcoholic provided\n\n**Getting there/parking/public transport:**\n\n* Event location is [here](https://maps.app.goo.gl/oTsWbKBzCSYZzDA37)\n* Please try and get in the door before 6:10pm\n* On street parking exists and is free\n* The closest public transport point is the Newcastle Train Interchange, a walk to the venue would be estimated at 20minutes on flat terrain\n\n**The rest:**\n\nIf you’re experiencing any symptoms representative of COVID-19, please don’t attend. We’ll miss you, but the health/safety of attendees is paramount.\n\nNCSG is a community group determined to improve and uplift the Newcastle cybersecurity community. We meet monthly (on the last Wednesday of each month) and have a bunch of interesting speakers, from local legends to heavy hitters in the enterprise world.\n\n**Want to learn more?** Be sure to follow us on [LinkedIn](https://www.linkedin.com/company/newcastlecybersecuritygroup/) or visit newwwie.com, join the community and come and chat in the #security channel.\n\n**Keen on speaking? Reach out at the event, or message us here.**",
       "dateTime": "2025-02-26T18:00+11:00",
       "eventUrl": "https://www.meetup.com/newcastle-cyber-security-group/events/305907238",
-      "going": 2,
+      "going": 3,
       "maxTickets": 0,
       "duration": "PT2H",
       "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/483205216/676x380.webp",
@@ -132,7 +99,7 @@
       "description": "Mark Wallis will bring along some of his top students to talk to us about their final year projects.\nThis will be a great chance to see the amazing entrepreneurship and problem-solving that is coming out of the current crop of UoN graduates.",
       "dateTime": "2025-03-05T19:00+11:00",
       "eventUrl": "https://www.meetup.com/newcastle-coders-group/events/305355319",
-      "going": 3,
+      "going": 4,
       "maxTickets": 0,
       "duration": "PT3H",
       "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/505406540/676x380.webp",
