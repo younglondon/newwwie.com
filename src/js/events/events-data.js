@@ -1,4 +1,4 @@
-// Auto Generated on 2025-02-05T13:16:38.363Z
+// Auto Generated on 2025-02-06T13:17:02.424Z
  module.exports = [
   {
     "event": {
@@ -6,7 +6,7 @@
       "description": "The Women and Gender-Diverse People in Tech meetup returns in February, where we'll be hearing from the multi-talented Leanora Horne!\n\n**About the talk:**\nJoin Leanora as she shares powerful, personal stories of navigating depression and professional burnout, finding the courage to rebuild, and the ongoing work of maintaining mental health. Through honest reflections and lessons learned, Leanora will explore the tools and practices that helped her rediscover balance and thrive in both her career and personal life. This talk is a reminder that it’s okay to not be okay—and that recovery is possible with the right support and mindset.\n\n**About Leanora:**\nLeanora is a passionate digital product manager at Bradken, where she drives innovation in digital solutions, including condition monitoring and inspection technologies. With a background in engineering and experience spanning design, development, and climate tech initiatives, she combines technical expertise with a people-focused approach.\nA graduate of UNSW, Leanora has a deep commitment to creating inclusive workplaces and empowering future leaders, exemplified by her mentorship roles and her involvement with HunterWISE. Her work reflects her dedication to fostering collaboration and breaking barriers in traditionally male-dominated industries.\n\nLeanora's efforts continue to inspire meaningful change, blending technology, sustainability, and diversity in all she does\n\n**The details:**\n\n* **When**: Thursday, 13th February from 5:30PM to 7:30PM\n* **Where:** NewyTechPeople Office, 9 Downie Street, Maryville\n\nWe usually provide food, so let us know of any allergies :)",
       "dateTime": "2025-02-13T17:30+11:00",
       "eventUrl": "https://www.meetup.com/newcastle-women-and-gender-diverse-people-in-tech/events/305489280",
-      "going": 28,
+      "going": 29,
       "maxTickets": 40,
       "duration": "PT2H",
       "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/525603029/676x380.webp",
@@ -99,7 +99,7 @@
       "description": "Mark Wallis will bring along some of his top students to talk to us about their final year projects.\nThis will be a great chance to see the amazing entrepreneurship and problem-solving that is coming out of the current crop of UoN graduates.",
       "dateTime": "2025-03-05T19:00+11:00",
       "eventUrl": "https://www.meetup.com/newcastle-coders-group/events/305355319",
-      "going": 4,
+      "going": 5,
       "maxTickets": 0,
       "duration": "PT3H",
       "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/505406540/676x380.webp",
