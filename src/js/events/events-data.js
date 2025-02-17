@@ -1,4 +1,4 @@
-// Auto Generated on 2025-02-16T13:13:12.442Z
+// Auto Generated on 2025-02-17T13:18:24.636Z
  module.exports = [
   {
     "event": {
@@ -6,7 +6,7 @@
       "description": "Metrics of Meetups: A very meta analytical meetup event.\n\n🗣️**Talk Description**: Metrics of Meetups is a talk about the data of this very meetup group and a reflection on the last 6 years of creating a space for our community to exist. We will cover some insights about marketing as well as topic modelling. We will also give you a peek behind the curtain of what it means to be a volunteer meetup organiser, how we have automated a lot of manual efforts and how you can volunteer to help.\n\n🎙️**Speaker Bio**: Josh Peak is the co-founder of HDA and also a Senior Consultant of Data & AI at V2 Digital. He has a B. CompSci / B. CompEng, GradDip DataSci and has started his MBA as well. He has previously given talks on \"Extreme Speadsheets\" and \"Data Analytics Maturity Models\" which are a mixture of insights and memes.\n\n🏢 **Venue**: NewyTechPeople Offices L2, 9 Downie St, Maryville NSW 2293\n\n[https://maps.app.goo.gl/QssJqKTbwyaKQMxu9](https://maps.app.goo.gl/QssJqKTbwyaKQMxu9)\n\n* We will meet on the Level 2 Seminar Space.\n\n##-------------------------------------------------------------------##\n\n🕠 TIME: 5.30pm - 7.30pm\n\nFOOD: 🍕 + 🥤\n\n* Wood fired pizza, sponsored by NewyTechPeople\n* Soft drinks\n\nSCHEDULE:\n\n* 5:30pm: Networking + Food + Drinks\n\n(Don't stress if you are held up in traffic)\n\n* 6:15pm: Presentation\n* 7:15pm: Packing up + Bonus questions\n* 7:30pm: Close\n* 7:30pm+: [Unofficially] anyone wanting to continue chatting, we usually head to a bar (The Maryville Tavern) which is a short walk from the venue.",
       "dateTime": "2025-02-20T17:30+11:00",
       "eventUrl": "https://www.meetup.com/hunter-data-analytics/events/303852171",
-      "going": 17,
+      "going": 18,
       "maxTickets": 0,
       "duration": "PT2H",
       "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/526031365/676x380.webp",
