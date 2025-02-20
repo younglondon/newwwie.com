@@ -1,45 +1,12 @@
-// Auto Generated on 2025-02-19T13:17:06.581Z
+// Auto Generated on 2025-02-20T13:18:26.838Z
  module.exports = [
-  {
-    "event": {
-      "title": "data.FEB <- Metrics of Meetups",
-      "description": "Metrics of Meetups: A very meta analytical meetup event.\n\n🗣️**Talk Description**: Metrics of Meetups is a talk about the data of this very meetup group and a reflection on the last 6 years of creating a space for our community to exist. We will cover some insights about marketing as well as topic modelling. We will also give you a peek behind the curtain of what it means to be a volunteer meetup organiser, how we have automated a lot of manual efforts and how you can volunteer to help.\n\n🎙️**Speaker Bio**: Josh Peak is the co-founder of HDA and also a Senior Consultant of Data & AI at V2 Digital. He has a B. CompSci / B. CompEng, GradDip DataSci and has started his MBA as well. He has previously given talks on \"Extreme Speadsheets\" and \"Data Analytics Maturity Models\" which are a mixture of insights and memes.\n\n🏢 **Venue**: NewyTechPeople Offices L2, 9 Downie St, Maryville NSW 2293\n\n[https://maps.app.goo.gl/QssJqKTbwyaKQMxu9](https://maps.app.goo.gl/QssJqKTbwyaKQMxu9)\n\n* We will meet on the Level 2 Seminar Space.\n\n##-------------------------------------------------------------------##\n\n🕠 TIME: 5.30pm - 7.30pm\n\nFOOD: 🍕 + 🥤\n\n* Wood fired pizza, sponsored by NewyTechPeople\n* Soft drinks\n\nSCHEDULE:\n\n* 5:30pm: Networking + Food + Drinks\n\n(Don't stress if you are held up in traffic)\n\n* 6:15pm: Presentation\n* 7:15pm: Packing up + Bonus questions\n* 7:30pm: Close\n* 7:30pm+: [Unofficially] anyone wanting to continue chatting, we usually head to a bar (The Maryville Tavern) which is a short walk from the venue.",
-      "dateTime": "2025-02-20T17:30+11:00",
-      "eventUrl": "https://www.meetup.com/hunter-data-analytics/events/303852171",
-      "going": 18,
-      "maxTickets": 0,
-      "duration": "PT2H",
-      "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/526031365/676x380.webp",
-      "venue": {
-        "name": "NewyTechPeople",
-        "lat": -32.912285,
-        "lng": 151.75766,
-        "address": "9 Downie Street",
-        "city": "Marysville"
-      }
-    },
-    "group": {
-      "name": "Hunter Data Analytics",
-      "urlname": "hunter-data-analytics",
-      "groupPhoto": {
-        "id": "483576656",
-        "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
-        "preview": null
-      },
-      "logo": {
-        "id": "483576656",
-        "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
-        "preview": null
-      }
-    }
-  },
   {
     "event": {
       "title": "NCSG February 2025 | PLACEHOLDER",
       "description": "PLACEHOLDER\n\n**Event details:**\n\nDate: **WEDNESDAY** February 26th\n\nTime: 18:00-20:00\n\nVenue: 9 Downie St, Maryville NSW 2293 - Newy Tech People Office\n\nFood: PIZZAS Provided, please inform us of dietary requirements when RSVPing\n\nDrink: Non-alcoholic provided\n\n**Getting there/parking/public transport:**\n\n* Event location is [here](https://maps.app.goo.gl/oTsWbKBzCSYZzDA37)\n* Please try and get in the door before 6:10pm\n* On street parking exists and is free\n* The closest public transport point is the Newcastle Train Interchange, a walk to the venue would be estimated at 20minutes on flat terrain\n\n**The rest:**\n\nIf you’re experiencing any symptoms representative of COVID-19, please don’t attend. We’ll miss you, but the health/safety of attendees is paramount.\n\nNCSG is a community group determined to improve and uplift the Newcastle cybersecurity community. We meet monthly (on the last Wednesday of each month) and have a bunch of interesting speakers, from local legends to heavy hitters in the enterprise world.\n\n**Want to learn more?** Be sure to follow us on [LinkedIn](https://www.linkedin.com/company/newcastlecybersecuritygroup/) or visit newwwie.com, join the community and come and chat in the #security channel.\n\n**Keen on speaking? Reach out at the event, or message us here.**",
       "dateTime": "2025-02-26T18:00+11:00",
       "eventUrl": "https://www.meetup.com/newcastle-cyber-security-group/events/305907238",
-      "going": 7,
+      "going": 9,
       "maxTickets": 0,
       "duration": "PT2H",
       "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/483205216/676x380.webp",
