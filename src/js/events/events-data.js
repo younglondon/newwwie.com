@@ -1,4 +1,4 @@
-// Auto Generated on 2025-02-21T13:17:12.306Z
+// Auto Generated on 2025-02-22T13:12:49.941Z
  module.exports = [
   {
     "event": {
@@ -6,7 +6,7 @@
       "description": "PLACEHOLDER\n\n**Event details:**\n\nDate: **WEDNESDAY** February 26th\n\nTime: 18:00-20:00\n\nVenue: 9 Downie St, Maryville NSW 2293 - Newy Tech People Office\n\nFood: PIZZAS Provided, please inform us of dietary requirements when RSVPing\n\nDrink: Non-alcoholic provided\n\n**Getting there/parking/public transport:**\n\n* Event location is [here](https://maps.app.goo.gl/oTsWbKBzCSYZzDA37)\n* Please try and get in the door before 6:10pm\n* On street parking exists and is free\n* The closest public transport point is the Newcastle Train Interchange, a walk to the venue would be estimated at 20minutes on flat terrain\n\n**The rest:**\n\nIf you’re experiencing any symptoms representative of COVID-19, please don’t attend. We’ll miss you, but the health/safety of attendees is paramount.\n\nNCSG is a community group determined to improve and uplift the Newcastle cybersecurity community. We meet monthly (on the last Wednesday of each month) and have a bunch of interesting speakers, from local legends to heavy hitters in the enterprise world.\n\n**Want to learn more?** Be sure to follow us on [LinkedIn](https://www.linkedin.com/company/newcastlecybersecuritygroup/) or visit newwwie.com, join the community and come and chat in the #security channel.\n\n**Keen on speaking? Reach out at the event, or message us here.**",
       "dateTime": "2025-02-26T18:00+11:00",
       "eventUrl": "https://www.meetup.com/newcastle-cyber-security-group/events/305907238",
-      "going": 9,
+      "going": 11,
       "maxTickets": 0,
       "duration": "PT2H",
       "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/483205216/676x380.webp",
