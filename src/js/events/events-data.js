@@ -1,4 +1,4 @@
-// Auto Generated on 2025-02-23T13:13:09.424Z
+// Auto Generated on 2025-02-24T13:18:54.543Z
  module.exports = [
   {
     "event": {
@@ -33,7 +33,7 @@
       "description": "Mark Wallis will bring along some of his top students to talk to us about their final year projects.\nThis will be a great chance to see the amazing entrepreneurship and problem-solving that is coming out of the current crop of UoN graduates.",
       "dateTime": "2025-03-05T19:00+11:00",
       "eventUrl": "https://www.meetup.com/newcastle-coders-group/events/305355319",
-      "going": 11,
+      "going": 12,
       "maxTickets": 0,
       "duration": "PT3H",
       "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/505406540/676x380.webp",
