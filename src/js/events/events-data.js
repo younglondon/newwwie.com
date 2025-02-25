@@ -1,39 +1,12 @@
-// Auto Generated on 2025-02-24T13:18:54.543Z
+// Auto Generated on 2025-02-25T13:18:28.450Z
  module.exports = [
   {
     "event": {
-      "title": "NCSG February 2025 | PLACEHOLDER",
-      "description": "PLACEHOLDER\n\n**Event details:**\n\nDate: **WEDNESDAY** February 26th\n\nTime: 18:00-20:00\n\nVenue: 9 Downie St, Maryville NSW 2293 - Newy Tech People Office\n\nFood: PIZZAS Provided, please inform us of dietary requirements when RSVPing\n\nDrink: Non-alcoholic provided\n\n**Getting there/parking/public transport:**\n\n* Event location is [here](https://maps.app.goo.gl/oTsWbKBzCSYZzDA37)\n* Please try and get in the door before 6:10pm\n* On street parking exists and is free\n* The closest public transport point is the Newcastle Train Interchange, a walk to the venue would be estimated at 20minutes on flat terrain\n\n**The rest:**\n\nIf you’re experiencing any symptoms representative of COVID-19, please don’t attend. We’ll miss you, but the health/safety of attendees is paramount.\n\nNCSG is a community group determined to improve and uplift the Newcastle cybersecurity community. We meet monthly (on the last Wednesday of each month) and have a bunch of interesting speakers, from local legends to heavy hitters in the enterprise world.\n\n**Want to learn more?** Be sure to follow us on [LinkedIn](https://www.linkedin.com/company/newcastlecybersecuritygroup/) or visit newwwie.com, join the community and come and chat in the #security channel.\n\n**Keen on speaking? Reach out at the event, or message us here.**",
-      "dateTime": "2025-02-26T18:00+11:00",
-      "eventUrl": "https://www.meetup.com/newcastle-cyber-security-group/events/305907238",
-      "going": 11,
-      "maxTickets": 0,
-      "duration": "PT2H",
-      "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/483205216/676x380.webp",
-      "venue": null
-    },
-    "group": {
-      "name": "Newcastle Cyber Security Group",
-      "urlname": "Newcastle-Cyber-Security-Group",
-      "groupPhoto": {
-        "id": "483205216",
-        "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
-        "preview": null
-      },
-      "logo": {
-        "id": "483205216",
-        "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
-        "preview": null
-      }
-    }
-  },
-  {
-    "event": {
       "title": "Tech Student Showcase",
-      "description": "Mark Wallis will bring along some of his top students to talk to us about their final year projects.\nThis will be a great chance to see the amazing entrepreneurship and problem-solving that is coming out of the current crop of UoN graduates.",
-      "dateTime": "2025-03-05T19:00+11:00",
+      "description": "Mark Wallis will bring along four of his top students to talk to us about their final year projects.\nThis will be a great chance to see the amazing entrepreneurship and problem-solving that is coming out of the current crop of UoN graduates.\n\nWe'll have pizza and drinks thanks to our sponsors.\n* Newy Tech Peopl\n* Saphi Engineering\n\n**Talk outlines**\nJacob – Strategic Testing: Prioritising and Evaluating Automated Test Efforts in Enterprise Systems\n\nLena - Bank Feed Integration for Epicor ERP Solution\n\nEthan - Recipient of the ACS SIPS Outstanding Work Integrated Learning student Award presenting on his work with Glencore\n\nThomas - Maximizing Performance And Network Independence In Mobile Health Applications: A Comparative Analysis Of Native And Web-Based Approaches",
+      "dateTime": "2025-03-05T18:00+11:00",
       "eventUrl": "https://www.meetup.com/newcastle-coders-group/events/305355319",
-      "going": 12,
+      "going": 25,
       "maxTickets": 0,
       "duration": "PT3H",
       "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/505406540/676x380.webp",
