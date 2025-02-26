@@ -1,4 +1,4 @@
-// Auto Generated on 2025-02-25T13:18:28.450Z
+// Auto Generated on 2025-02-26T13:18:35.083Z
  module.exports = [
   {
     "event": {
@@ -6,7 +6,7 @@
       "description": "Mark Wallis will bring along four of his top students to talk to us about their final year projects.\nThis will be a great chance to see the amazing entrepreneurship and problem-solving that is coming out of the current crop of UoN graduates.\n\nWe'll have pizza and drinks thanks to our sponsors.\n* Newy Tech Peopl\n* Saphi Engineering\n\n**Talk outlines**\nJacob – Strategic Testing: Prioritising and Evaluating Automated Test Efforts in Enterprise Systems\n\nLena - Bank Feed Integration for Epicor ERP Solution\n\nEthan - Recipient of the ACS SIPS Outstanding Work Integrated Learning student Award presenting on his work with Glencore\n\nThomas - Maximizing Performance And Network Independence In Mobile Health Applications: A Comparative Analysis Of Native And Web-Based Approaches",
       "dateTime": "2025-03-05T18:00+11:00",
       "eventUrl": "https://www.meetup.com/newcastle-coders-group/events/305355319",
-      "going": 25,
+      "going": 28,
       "maxTickets": 0,
       "duration": "PT3H",
       "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/505406540/676x380.webp",
