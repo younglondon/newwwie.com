@@ -1,4 +1,4 @@
-// Auto Generated on 2025-03-03T13:19:15.550Z
+// Auto Generated on 2025-03-04T13:18:54.673Z
  module.exports = [
   {
     "event": {
@@ -6,7 +6,7 @@
       "description": "Mark Wallis will bring along four of his top students to talk to us about their final year projects.\nThis will be a great chance to see the amazing entrepreneurship and problem-solving that is coming out of the current crop of UoN graduates.\n\nWe'll have pizza and drinks thanks to our sponsors.\n* Newy Tech Peopl\n* Saphi Engineering\n\n**Talk outlines**\nJacob – Strategic Testing: Prioritising and Evaluating Automated Test Efforts in Enterprise Systems\n\nLena - Bank Feed Integration for Epicor ERP Solution\n\nEthan - Recipient of the ACS SIPS Outstanding Work Integrated Learning student Award presenting on his work with Glencore\n\nThomas - Maximizing Performance And Network Independence In Mobile Health Applications: A Comparative Analysis Of Native And Web-Based Approaches",
       "dateTime": "2025-03-05T18:00+11:00",
       "eventUrl": "https://www.meetup.com/newcastle-coders-group/events/305355319",
-      "going": 34,
+      "going": 41,
       "maxTickets": 0,
       "duration": "PT3H",
       "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/505406540/676x380.webp",
@@ -105,7 +105,7 @@
       "description": "PLACEHOLDER\n\n**Event details:**\n\nDate: **WEDNESDAY** March 26th\n\nTime: 18:00-20:00\n\nVenue: 16 Honeysuckle Drive, Newcastle (The University of Newcastle 'Q Building') - second floor\n\nFood: PIZZAS Provided, please inform us of dietary requirements when RSVPing\n\nDrink: Non-alcoholic provided\n\n**Getting there/parking/public transport:**\n\n* Event location is [here](https://goo.gl/maps/rCqoDx8MbjqyeHTMA)\n* Please try and get in the door before 6:10pm. We check occasionally but you might get stuck outside in the cold for a while.\n* The [car park behind the building](https://goo.gl/maps/FzNNQfbAxxW38GNr7) is free after 5PM, and generally has plenty of room.\n* The closest public transport point is [Honeysuckle Light Rail Station](https://goo.gl/maps/3P2BpkiMaCeZ8isk9), which will take you to Newcastle Interchange and beyond every \\~7min or so. Walk along Honeysuckle Drive for a better-lit pathway.\n\n**The rest:**\n\nIf you’re experiencing any symptoms representative of COVID-19, please don’t attend. We’ll miss you, but the health/safety of attendees is paramount.\n\nNCSG is a community group determined to improve and uplift the Newcastle cybersecurity community. We meet monthly (on the last Wednesday of each month) and have a bunch of interesting speakers, from local legends to heavy hitters in the enterprise world.\n\n**Want to learn more?** Be sure to follow us on [LinkedIn](https://www.linkedin.com/company/newcastlecybersecuritygroup/) or visit newwwie.com, join the community and come and chat in the #security channel.\n\n**Keen on speaking? Reach out at the event, or message us here.**",
       "dateTime": "2025-03-26T18:00+11:00",
       "eventUrl": "https://www.meetup.com/newcastle-cyber-security-group/events/306508846",
-      "going": 1,
+      "going": 2,
       "maxTickets": 0,
       "duration": "PT2H",
       "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/483205216/676x380.webp",
