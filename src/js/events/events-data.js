@@ -1,45 +1,12 @@
-// Auto Generated on 2025-03-04T13:18:54.673Z
+// Auto Generated on 2025-03-05T13:19:13.565Z
  module.exports = [
-  {
-    "event": {
-      "title": "Tech Student Showcase",
-      "description": "Mark Wallis will bring along four of his top students to talk to us about their final year projects.\nThis will be a great chance to see the amazing entrepreneurship and problem-solving that is coming out of the current crop of UoN graduates.\n\nWe'll have pizza and drinks thanks to our sponsors.\n* Newy Tech Peopl\n* Saphi Engineering\n\n**Talk outlines**\nJacob – Strategic Testing: Prioritising and Evaluating Automated Test Efforts in Enterprise Systems\n\nLena - Bank Feed Integration for Epicor ERP Solution\n\nEthan - Recipient of the ACS SIPS Outstanding Work Integrated Learning student Award presenting on his work with Glencore\n\nThomas - Maximizing Performance And Network Independence In Mobile Health Applications: A Comparative Analysis Of Native And Web-Based Approaches",
-      "dateTime": "2025-03-05T18:00+11:00",
-      "eventUrl": "https://www.meetup.com/newcastle-coders-group/events/305355319",
-      "going": 41,
-      "maxTickets": 0,
-      "duration": "PT3H",
-      "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/505406540/676x380.webp",
-      "venue": {
-        "name": "Endava Newcastle",
-        "lat": -32.926075,
-        "lng": 151.7626,
-        "address": "8/710 Hunter Street",
-        "city": "Newcastle"
-      }
-    },
-    "group": {
-      "name": "Newcastle Coders Group",
-      "urlname": "newcastle-coders-group",
-      "groupPhoto": {
-        "id": "505406540",
-        "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
-        "preview": null
-      },
-      "logo": {
-        "id": "505406540",
-        "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
-        "preview": null
-      }
-    }
-  },
   {
     "event": {
       "title": "WGDPTech March - Speed Networking",
       "description": "For our March meet-up, we're running Speed Networking! This event is your chance to connect with some of the other amazing members of our community in quick succession (talk about efficiency!). Whether you're a regular attendee or a first-timer, we'd love to see you there.\n\nSpeed Networking will give you the opportunity to talk to different people for three minutes. There will be rotating questions on the display screen in case you get stuck, and it's a fantastic way to meet lots of wonderful people. We'll also be providing pizza and refreshments as always.\n\nOur events are gender-all-inclusive, and everyone is welcome. We know that gender equity only happens when we all work together, and we take pride in the diversity of our community.\n\n**The details:**\n\n* **When**: Thursday, 13th March from 5:30PM to 7:30PM\n* **Where:** NewyTechPeople, 9 Downie St, Maryville NSW 2293\n\nWe usually provide food, so let us know of any allergies :)",
       "dateTime": "2025-03-13T17:30+11:00",
       "eventUrl": "https://www.meetup.com/newcastle-women-and-gender-diverse-people-in-tech/events/306251535",
-      "going": 7,
+      "going": 8,
       "maxTickets": 40,
       "duration": "PT2H",
       "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/518951708/676x380.webp",
