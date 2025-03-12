@@ -1,4 +1,4 @@
-// Auto Generated on 2025-03-11T13:20:14.236Z
+// Auto Generated on 2025-03-12T13:20:02.375Z
  module.exports = [
   {
     "event": {
@@ -6,7 +6,7 @@
       "description": "For our March meet-up, we're running Speed Networking! This event is your chance to connect with some of the other amazing members of our community in quick succession (talk about efficiency!). Whether you're a regular attendee or a first-timer, we'd love to see you there.\n\nSpeed Networking will give you the opportunity to talk to different people for three minutes. There will be rotating questions on the display screen in case you get stuck, and it's a fantastic way to meet lots of wonderful people. We'll also be providing pizza and refreshments as always.\n\nOur events are gender-all-inclusive, and everyone is welcome. We know that gender equity only happens when we all work together, and we take pride in the diversity of our community.\n\n**The details:**\n\n* **When**: Thursday, 13th March from 5:30PM to 7:30PM\n* **Where:** NewyTechPeople, 9 Downie St, Maryville NSW 2293\n\nWe usually provide food, so let us know of any allergies :)",
       "dateTime": "2025-03-13T17:30+11:00",
       "eventUrl": "https://www.meetup.com/newcastle-women-and-gender-diverse-people-in-tech/events/306251535",
-      "going": 11,
+      "going": 12,
       "maxTickets": 40,
       "duration": "PT2H",
       "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/518951708/676x380.webp",
