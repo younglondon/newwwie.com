@@ -1,4 +1,4 @@
-// Auto Generated on 2025-03-13T13:20:09.755Z
+// Auto Generated on 2025-03-14T13:18:00.229Z
  module.exports = [
   {
     "event": {
@@ -6,7 +6,7 @@
       "description": "**🗣️Talk Description:** Ever wondered about ontology vs. epistemology, instrumentality vs. phenomenology, or pragmatism vs. rationalism? Well, modern chatbots can tackle these questions better than most academics—and now with less than half the post-structuralism! But if you want the blissfully tortuous, existentialism-free version, you’ll still need a human grappling with Aristotle and de Saussure through strained neural network analogies he barely understands.\n\n**🎙️Speaker Bio:** Stephen Hicks dropped out of the last year of computer engineering, unfortunately after passing the mandatory philosophy subject. He still has nightmares about cybernetic snail flukes. He has since finished a TAFE diploma in databases and data management he feels prepared him for the advent of an all consuming ontological totality\n\n🏢 **Venue**: NewyTechPeople Offices L2, 9 Downie St, Maryville NSW 2293\n\n[https://maps.app.goo.gl/QssJqKTbwyaKQMxu9](https://maps.app.goo.gl/QssJqKTbwyaKQMxu9)\n\n* We will meet on the Level 2 Seminar Space.\n\n##-------------------------------------------------------------------##\n\n🕠 TIME: 5.30pm - 7.30pm\n\nFOOD: 🍕 + 🥤\n\n* Wood fired pizza, sponsored by NewyTechPeople\n* Soft drinks\n\nSCHEDULE:\n\n* 5:30pm: Networking + Food + Drinks\n\n(Don't stress if you are held up in traffic)\n\n* 6:15pm: Presentation\n* 7:15pm: Packing up + Bonus questions\n* 7:30pm: Close\n* 7:30pm+: [Unofficially] anyone wanting to continue chatting, we usually head to a bar (The Maryville Tavern) which is a short walk from the venue.",
       "dateTime": "2025-03-20T17:30+11:00",
       "eventUrl": "https://www.meetup.com/hunter-data-analytics/events/303852182",
-      "going": 11,
+      "going": 12,
       "maxTickets": 0,
       "duration": "PT2H",
       "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/526689205/676x380.webp",
@@ -39,7 +39,7 @@
       "description": "PLACEHOLDER\n\n**Event details:**\n\nDate: **WEDNESDAY** March 26th\n\nTime: 18:00-20:00\n\nVenue: 16 Honeysuckle Drive, Newcastle (The University of Newcastle 'Q Building') - second floor\n\nFood: PIZZAS Provided, please inform us of dietary requirements when RSVPing\n\nDrink: Non-alcoholic provided\n\n**Getting there/parking/public transport:**\n\n* Event location is [here](https://goo.gl/maps/rCqoDx8MbjqyeHTMA)\n* Please try and get in the door before 6:10pm. We check occasionally but you might get stuck outside in the cold for a while.\n* The [car park behind the building](https://goo.gl/maps/FzNNQfbAxxW38GNr7) is free after 5PM, and generally has plenty of room.\n* The closest public transport point is [Honeysuckle Light Rail Station](https://goo.gl/maps/3P2BpkiMaCeZ8isk9), which will take you to Newcastle Interchange and beyond every \\~7min or so. Walk along Honeysuckle Drive for a better-lit pathway.\n\n**The rest:**\n\nIf you’re experiencing any symptoms representative of COVID-19, please don’t attend. We’ll miss you, but the health/safety of attendees is paramount.\n\nNCSG is a community group determined to improve and uplift the Newcastle cybersecurity community. We meet monthly (on the last Wednesday of each month) and have a bunch of interesting speakers, from local legends to heavy hitters in the enterprise world.\n\n**Want to learn more?** Be sure to follow us on [LinkedIn](https://www.linkedin.com/company/newcastlecybersecuritygroup/) or visit newwwie.com, join the community and come and chat in the #security channel.\n\n**Keen on speaking? Reach out at the event, or message us here.**",
       "dateTime": "2025-03-26T18:00+11:00",
       "eventUrl": "https://www.meetup.com/newcastle-cyber-security-group/events/306508846",
-      "going": 5,
+      "going": 6,
       "maxTickets": 0,
       "duration": "PT2H",
       "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/483205216/676x380.webp",
