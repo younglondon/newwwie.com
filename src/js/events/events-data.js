@@ -1,4 +1,4 @@
-// Auto Generated on 2025-04-11T13:20:45.123Z
+// Auto Generated on 2025-04-12T13:16:27.239Z
  module.exports = [
   {
     "event": {
@@ -6,7 +6,7 @@
       "description": "**Charts 📊 'n Karts 🏎️💨**\nBeing the night before the Easter Long weekend we thought we would do something a bit different and fun.\n\nPurely a social night with pizza and drinks (alcoholic and non-alcoholic).\n\nOh and a fun Mario Kart tournament on the big screen.\n\nWhether you want to Blue Shell your way to glory or sit back chat, and watch the mayhem, come along for a social with fellow data analytics enthusiasts to wrap up the shorter work week.\n\n🏢 **Venue**: NewyTechPeople Offices L2, 9 Downie St, Maryville NSW 2293\n\n[https://maps.app.goo.gl/QssJqKTbwyaKQMxu9](https://maps.app.goo.gl/QssJqKTbwyaKQMxu9)\n\n* We will meet on the Level 2 Seminar Space.\n\n##-------------------------------------------------------------------##\n\n🕠 TIME: 5.30pm - 7.30pm\n\nFOOD: 🍕 + 🥤\n\n* Wood fired pizza, sponsored by NewyTechPeople\n* Soft drinks\n\nSCHEDULE:\n\n* 5:30pm: Networking + Food + Drinks + Mario Kart\n\n* 7:30pm: Close",
       "dateTime": "2025-04-17T17:30+10:00",
       "eventUrl": "https://www.meetup.com/hunter-data-analytics/events/303852188",
-      "going": 18,
+      "going": 19,
       "maxTickets": 0,
       "duration": "PT2H",
       "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/527083661/676x380.webp",
@@ -66,7 +66,7 @@
       "description": "Save the date for our May event featuring Karen Livesey!\n\n**5:30PM:** The event starts with a catch-up\n**6:00PM:** The presentation will begin\n\nWe'll gather at the NewyTechPeople office at 9 Downie St, Maryville NSW for this event.\n\nEveryone is welcome to this event, regardless of gender- so share it with your friends. Through these speaker events, we aim to share experiences and knowledge, that's how we learn, and that's how we can improve the community for everyone. We provide food, so let us know of any allergies :)",
       "dateTime": "2025-05-08T17:30+10:00",
       "eventUrl": "https://www.meetup.com/newcastle-women-and-gender-diverse-people-in-tech/events/306783053",
-      "going": 6,
+      "going": 7,
       "maxTickets": 40,
       "duration": "PT2H",
       "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/518951708/676x380.webp",
