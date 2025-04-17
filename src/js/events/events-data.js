@@ -1,38 +1,5 @@
-// Auto Generated on 2025-04-16T13:22:04.561Z
+// Auto Generated on 2025-04-17T13:21:20.674Z
  module.exports = [
-  {
-    "event": {
-      "title": "data.APR <- Charts 📊 'n Karts 🏎️💨",
-      "description": "**Charts 📊 'n Karts 🏎️💨**\nBeing the night before the Easter Long weekend we thought we would do something a bit different and fun.\n\nPurely a social night with pizza and drinks (alcoholic and non-alcoholic).\n\nOh and a fun Mario Kart tournament on the big screen.\n\nWhether you want to Blue Shell your way to glory or sit back chat, and watch the mayhem, come along for a social with fellow data analytics enthusiasts to wrap up the shorter work week.\n\n🏢 **Venue**: NewyTechPeople Offices L2, 9 Downie St, Maryville NSW 2293\n\n[https://maps.app.goo.gl/QssJqKTbwyaKQMxu9](https://maps.app.goo.gl/QssJqKTbwyaKQMxu9)\n\n* We will meet on the Level 2 Seminar Space.\n\n##-------------------------------------------------------------------##\n\n🕠 TIME: 5.30pm - 7.30pm\n\nFOOD: 🍕 + 🥤\n\n* Wood fired pizza, sponsored by NewyTechPeople\n* Soft drinks\n\nSCHEDULE:\n\n* 5:30pm: Networking + Food + Drinks + Mario Kart\n\n* 7:30pm: Close",
-      "dateTime": "2025-04-17T17:30+10:00",
-      "eventUrl": "https://www.meetup.com/hunter-data-analytics/events/303852188",
-      "going": 22,
-      "maxTickets": 0,
-      "duration": "PT2H",
-      "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/527083661/676x380.webp",
-      "venue": {
-        "name": "NewyTechPeople",
-        "lat": -32.912285,
-        "lng": 151.75766,
-        "address": "9 Downie Street",
-        "city": "Marysville"
-      }
-    },
-    "group": {
-      "name": "Hunter Data Analytics",
-      "urlname": "hunter-data-analytics",
-      "groupPhoto": {
-        "id": "483576656",
-        "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
-        "preview": null
-      },
-      "logo": {
-        "id": "483576656",
-        "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
-        "preview": null
-      }
-    }
-  },
   {
     "event": {
       "title": "NCSG APRIL 2025 | PLACEHOLDER",
