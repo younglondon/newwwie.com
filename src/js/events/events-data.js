@@ -1,4 +1,4 @@
-// Auto Generated on 2025-04-21T13:20:34.670Z
+// Auto Generated on 2025-04-22T13:22:08.655Z
  module.exports = [
   {
     "event": {
@@ -6,7 +6,7 @@
       "description": "Welcome back for Newcastle Cybersecurity Group's April event!\n\nThis month we're lucky to have Matthew Flanagan back to talk about research into next-generation firewalls (NGFW) and the opportunities they present to adversaries and defenders.\n\nWith the increasing incidence of critical vulnerabilities on next-generation firewalls, vendors and their customers face significant challenges in keeping up with firmware patches, mitigating exploitation risks, and safeguarding their edge devices and organizations.\n\nAs an adversary, if you land on a Palo Alto Networks next-generation firewall, what could you do next to further compromise the target environment?\n\nThis talk answers that question by uncovering how attackers can exploit weaknesses and overlooked features in these firewalls for maximum impact. We revisit a little-known fact: Palo Alto’s default master key (often left unchanged) can be leveraged to decrypt stored configuration secrets, exposing credentials and cryptographic keys previously thought secure.\n\nWe demonstrate how a compromised NGFW can be transformed from a security appliance into a valuable platform for credential harvesting, internal reconnaissance, and lateral movement. Beyond extracting sensitive data, an adversary can abuse built-in functionality to move deeper into the environment in ways most defenders have never considered.\n\nWe also show how the clientless VPN feature can be abused for internal network mapping, and how a threat actor may inject malicious code into VPN login portals to harvest credentials.To support these techniques, this talk introduces three custom tools developed during the research:\n\n* a Palo secret decryptor script for extracting encrypted secrets,\n* a clientless VPN port scanner for mapping internal services via the firewall’s VPN portal, and\n* a JavaScript gadget designed to harvest credentials from customizable VPN login portals.\n\nRed teamers and penetration testers will gain new strategies to target perimeter devices and turn them into offensive assets.\n\nDefenders will walk away with a clearer understanding of how next-generation firewalls can be turned against them, and practical steps to harden these critical systems.\n\n**Event details:**\n\nDate: **WEDNESDAY** April 23rd\n\nTime: 18:00-21:00\n\nVenue: 16 Honeysuckle Drive, Newcastle (The University of Newcastle 'Q Building') - second floor\n\nFood: PIZZAS Provided, please inform us of dietary requirements when RSVPing\n\nDrink: Non-alcoholic provided\n\n**Getting there/parking/public transport:**\n\n* Event location is [here](https://goo.gl/maps/rCqoDx8MbjqyeHTMA)\n* Please try and get in the door before 6:10pm. We check occasionally but you might get stuck outside in the cold for a while.\n* The [car park behind the building](https://goo.gl/maps/FzNNQfbAxxW38GNr7) is free after 5PM, and generally has plenty of room.\n* The closest public transport point is [Honeysuckle Light Rail Station](https://goo.gl/maps/3P2BpkiMaCeZ8isk9), which will take you to Newcastle Interchange and beyond every \\~7min or so. Walk along Honeysuckle Drive for a better-lit pathway.\n\n**The rest:**\n\nIf you’re experiencing any symptoms representative of COVID-19, please don’t attend. We’ll miss you, but the health/safety of attendees is paramount.\n\nNCSG is a community group determined to improve and uplift the Newcastle cybersecurity community. We meet monthly (on the last Wednesday of each month) and have a bunch of interesting speakers, from local legends to heavy hitters in the enterprise world.\n\n**Want to learn more?** Be sure to follow us on [LinkedIn](https://www.linkedin.com/company/newcastlecybersecuritygroup/) or visit newwwie.com, join the community and come and chat in the #security channel.\n\n**Keen on speaking? Reach out at the event, or message us here.**",
       "dateTime": "2025-04-23T18:00+10:00",
       "eventUrl": "https://www.meetup.com/newcastle-cyber-security-group/events/307187284",
-      "going": 13,
+      "going": 16,
       "maxTickets": 0,
       "duration": "PT3H",
       "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/527446205/676x380.webp",
@@ -22,6 +22,33 @@
       },
       "logo": {
         "id": "483205216",
+        "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+        "preview": null
+      }
+    }
+  },
+  {
+    "event": {
+      "title": "May: Anton Polkanov - MCP: Ensuring Our Tools Are Ready for the Robot Overlords",
+      "description": "Howdy Coders,\n\nWe're back with another great AI focused talk for May. Anton Polkanov will be taking us through the Model Context Protocol a standard for integrating with LLMs.\n\nWe'd like to thank our sponsors\n\n* SSW\n* Saphi Engineering\n\nSlashNEW is coming up May 28 and 29, we have a discount code: MEETUP10 which will get you $10 off an already cheap ticket. Check out the agenda and buy tickets at [SlashNEW.tech](https://slashnew.tech)\n\nThe Model Context Protocol (MCP) is rapidly gaining traction as a pivotal standard for integrating LLMs with real-world tools and data sources. By providing a structured, context-rich interface, MCP enables AI agents to interact seamlessly with external systems, enhancing their utility and effectiveness.​\n\nIn this session, we'll delve into the core concepts of MCP, explore its architecture, and demonstrate how to build and publish your own MCP server. We'll also cover advanced features like Server-Sent events and the new A2A protocol, along with essential security considerations.​\nWhether you're currently working with AI or planning to, this talk will equip you with the knowledge to make your systems LLM-compatible.\n\n**Anton Polkanov** is a senior software engineer who focuses on solving complex problems through thoughtful system design and clear architecture. With a strong background in .NET and Azure, he works at the intersection of technology and business needs — helping teams build solutions that are scalable, maintainable, and ready for the future. Lately, he’s been exploring how AI can be used to bring real value to modern applications.",
+      "dateTime": "2025-05-07T18:00+10:00",
+      "eventUrl": "https://www.meetup.com/newcastle-coders-group/events/307418716",
+      "going": 1,
+      "maxTickets": 0,
+      "duration": "PT3H",
+      "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/505406540/676x380.webp",
+      "venue": null
+    },
+    "group": {
+      "name": "Newcastle Coders Group",
+      "urlname": "newcastle-coders-group",
+      "groupPhoto": {
+        "id": "505406540",
+        "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+        "preview": null
+      },
+      "logo": {
+        "id": "505406540",
         "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
         "preview": null
       }
