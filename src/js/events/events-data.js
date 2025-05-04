@@ -1,4 +1,4 @@
-// Auto Generated on 2025-05-03T13:18:12.553Z
+// Auto Generated on 2025-05-04T13:18:38.820Z
  module.exports = [
   {
     "event": {
@@ -6,7 +6,7 @@
       "description": "Howdy Coders,\n\nWe're back with another great AI focused talk for May. Anton Polkanov will be taking us through the Model Context Protocol a standard for integrating with LLMs.\n\nWe'd like to thank our sponsors\n\n* SSW\n* Saphi Engineering\n\nSlashNEW is coming up May 28 and 29, we have a discount code: MEETUP10 which will get you $10 off an already cheap ticket, there is a limit to the number of tickets that can use that code so get in quick.\nCheck out the agenda and buy tickets at [SlashNEW.tech](https://slashnew.tech)\n\nThe Model Context Protocol (MCP) is rapidly gaining traction as a pivotal standard for integrating LLMs with real-world tools and data sources. By providing a structured, context-rich interface, MCP enables AI agents to interact seamlessly with external systems, enhancing their utility and effectiveness.​\n\nIn this session, we'll delve into the core concepts of MCP, explore its architecture, and demonstrate how to build and publish your own MCP server. We'll also cover advanced features like Server-Sent events and the new A2A protocol, along with essential security considerations.​\nWhether you're currently working with AI or planning to, this talk will equip you with the knowledge to make your systems LLM-compatible.\n\n**Anton Polkanov** is a senior software engineer who focuses on solving complex problems through thoughtful system design and clear architecture. With a strong background in .NET and Azure, he works at the intersection of technology and business needs — helping teams build solutions that are scalable, maintainable, and ready for the future. Lately, he’s been exploring how AI can be used to bring real value to modern applications.",
       "dateTime": "2025-05-07T18:00+10:00",
       "eventUrl": "https://www.meetup.com/newcastle-coders-group/events/307418716",
-      "going": 17,
+      "going": 19,
       "maxTickets": 0,
       "duration": "PT3H",
       "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/505406540/676x380.webp",
@@ -105,7 +105,7 @@
       "description": "This is a save-the-date event\n\n**Event details:**\n\nVenue: 16 Honeysuckle Drive, Newcastle (The University of Newcastle 'Q Building') - second floor\n\nFood: PIZZAS Provided, please inform us of dietary requirements when RSVPing\n\nDrink: Non-alcoholic provided\n\n**Getting there/parking/public transport:**\n\n* Event location is [here](https://goo.gl/maps/rCqoDx8MbjqyeHTMA)\n* Please try and get in the door before 6:10pm. We check occasionally but you might get stuck outside in the cold for a while.\n* The [car park behind the building](https://goo.gl/maps/FzNNQfbAxxW38GNr7) is free after 5PM, and generally has plenty of room.\n* The closest public transport point is [Honeysuckle Light Rail Station](https://goo.gl/maps/3P2BpkiMaCeZ8isk9), which will take you to Newcastle Interchange and beyond every \\~7min or so. Walk along Honeysuckle Drive for a better-lit pathway.\n\n**The rest:**\n\nIf you’re experiencing any symptoms representative of COVID-19, please don’t attend. We’ll miss you, but the health/safety of attendees is paramount.\n\nNCSG is a community group determined to improve and uplift the Newcastle cybersecurity community. We meet monthly (on the last Wednesday of each month) and have a bunch of interesting speakers, from local legends to heavy hitters in the enterprise world.\n\n**Want to learn more?** Be sure to follow us on [LinkedIn](https://www.linkedin.com/company/newcastlecybersecuritygroup/) or visit newwwie.com, join the community and come and chat in the #security channel.\n\n**Keen on speaking? Reach out at the event, or message us here.**",
       "dateTime": "2025-05-28T18:00+10:00",
       "eventUrl": "https://www.meetup.com/newcastle-cyber-security-group/events/307362819",
-      "going": 7,
+      "going": 8,
       "maxTickets": 0,
       "duration": "PT3H",
       "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/483205216/676x380.webp",
