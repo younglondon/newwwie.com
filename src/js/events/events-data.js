@@ -1,4 +1,4 @@
-// Auto Generated on 2025-05-04T13:18:38.820Z
+// Auto Generated on 2025-05-05T13:22:57.058Z
  module.exports = [
   {
     "event": {
@@ -6,7 +6,7 @@
       "description": "Howdy Coders,\n\nWe're back with another great AI focused talk for May. Anton Polkanov will be taking us through the Model Context Protocol a standard for integrating with LLMs.\n\nWe'd like to thank our sponsors\n\n* SSW\n* Saphi Engineering\n\nSlashNEW is coming up May 28 and 29, we have a discount code: MEETUP10 which will get you $10 off an already cheap ticket, there is a limit to the number of tickets that can use that code so get in quick.\nCheck out the agenda and buy tickets at [SlashNEW.tech](https://slashnew.tech)\n\nThe Model Context Protocol (MCP) is rapidly gaining traction as a pivotal standard for integrating LLMs with real-world tools and data sources. By providing a structured, context-rich interface, MCP enables AI agents to interact seamlessly with external systems, enhancing their utility and effectiveness.​\n\nIn this session, we'll delve into the core concepts of MCP, explore its architecture, and demonstrate how to build and publish your own MCP server. We'll also cover advanced features like Server-Sent events and the new A2A protocol, along with essential security considerations.​\nWhether you're currently working with AI or planning to, this talk will equip you with the knowledge to make your systems LLM-compatible.\n\n**Anton Polkanov** is a senior software engineer who focuses on solving complex problems through thoughtful system design and clear architecture. With a strong background in .NET and Azure, he works at the intersection of technology and business needs — helping teams build solutions that are scalable, maintainable, and ready for the future. Lately, he’s been exploring how AI can be used to bring real value to modern applications.",
       "dateTime": "2025-05-07T18:00+10:00",
       "eventUrl": "https://www.meetup.com/newcastle-coders-group/events/307418716",
-      "going": 19,
+      "going": 25,
       "maxTickets": 0,
       "duration": "PT3H",
       "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/505406540/676x380.webp",
