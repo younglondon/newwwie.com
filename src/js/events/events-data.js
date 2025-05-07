@@ -1,45 +1,12 @@
-// Auto Generated on 2025-05-06T13:25:11.213Z
+// Auto Generated on 2025-05-07T13:26:23.926Z
  module.exports = [
-  {
-    "event": {
-      "title": "May: Anton Polkanov - MCP: Ensuring Our Tools Are Ready for the Robot Overlords",
-      "description": "Howdy Coders,\n\nWe're back with another great AI focused talk for May. Anton Polkanov will be taking us through the Model Context Protocol a standard for integrating with LLMs.\n\nWe'd like to thank our sponsors\n\n* SSW\n* Saphi Engineering\n\nSlashNEW is coming up May 28 and 29, we have a discount code: MEETUP10 which will get you $10 off an already cheap ticket, there is a limit to the number of tickets that can use that code so get in quick.\nCheck out the agenda and buy tickets at [SlashNEW.tech](https://slashnew.tech)\n\nThe Model Context Protocol (MCP) is rapidly gaining traction as a pivotal standard for integrating LLMs with real-world tools and data sources. By providing a structured, context-rich interface, MCP enables AI agents to interact seamlessly with external systems, enhancing their utility and effectiveness.​\n\nIn this session, we'll delve into the core concepts of MCP, explore its architecture, and demonstrate how to build and publish your own MCP server. We'll also cover advanced features like Server-Sent events and the new A2A protocol, along with essential security considerations.​\nWhether you're currently working with AI or planning to, this talk will equip you with the knowledge to make your systems LLM-compatible.\n\n**Anton Polkanov** is a senior software engineer who focuses on solving complex problems through thoughtful system design and clear architecture. With a strong background in .NET and Azure, he works at the intersection of technology and business needs — helping teams build solutions that are scalable, maintainable, and ready for the future. Lately, he’s been exploring how AI can be used to bring real value to modern applications.",
-      "dateTime": "2025-05-07T18:00+10:00",
-      "eventUrl": "https://www.meetup.com/newcastle-coders-group/events/307418716",
-      "going": 27,
-      "maxTickets": 0,
-      "duration": "PT3H",
-      "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/505406540/676x380.webp",
-      "venue": {
-        "name": "SSW Newcastle - Enterprise Software Development",
-        "lat": -32.926857,
-        "lng": 151.77159,
-        "address": "432 Hunter St",
-        "city": "Newcastle"
-      }
-    },
-    "group": {
-      "name": "Newcastle Coders Group",
-      "urlname": "newcastle-coders-group",
-      "groupPhoto": {
-        "id": "505406540",
-        "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
-        "preview": null
-      },
-      "logo": {
-        "id": "505406540",
-        "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
-        "preview": null
-      }
-    }
-  },
   {
     "event": {
       "title": "WGDPTech Meet-up: 'Making Career Changes' from Karen Livesey!",
       "description": "Save the date for our May event featuring Karen Livesey!\n\nCareer changes can be scary because they involve jumping into the unknown and redefining one's identity. However, they also realign work-life with one's goals and values. I'm not an expert, but want to explore this topic with you while looking backward and forward in time.\n\nKaren Livesey is currently head of Physics at the University of Newcastle. She has won awards for university teaching and physics research in Australia and the USA. In 2023 she was the Australian Women in Physics Lecturer, plus was named a Superstar of STEM by Science and Technology Australia. In 2020 and 2025 she made large career changes...\n\n**5:30PM:** The event starts with a catch-up\n**6:00PM:** The presentation will begin\n\nWe'll gather at the NewyTechPeople office at 9 Downie St, Maryville NSW for this event.\n\nEveryone is welcome to this event, regardless of gender- so share it with your friends. Through these speaker events, we aim to share experiences and knowledge, that's how we learn, and that's how we can improve the community for everyone. We provide food, so let us know of any allergies :)",
       "dateTime": "2025-05-08T17:30+10:00",
       "eventUrl": "https://www.meetup.com/newcastle-women-and-gender-diverse-people-in-tech/events/306783053",
-      "going": 13,
+      "going": 12,
       "maxTickets": 40,
       "duration": "PT2H",
       "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/518951708/676x380.webp",
