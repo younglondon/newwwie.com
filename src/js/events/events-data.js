@@ -1,38 +1,5 @@
-// Auto Generated on 2025-05-07T13:26:23.926Z
+// Auto Generated on 2025-05-08T13:24:02.943Z
  module.exports = [
-  {
-    "event": {
-      "title": "WGDPTech Meet-up: 'Making Career Changes' from Karen Livesey!",
-      "description": "Save the date for our May event featuring Karen Livesey!\n\nCareer changes can be scary because they involve jumping into the unknown and redefining one's identity. However, they also realign work-life with one's goals and values. I'm not an expert, but want to explore this topic with you while looking backward and forward in time.\n\nKaren Livesey is currently head of Physics at the University of Newcastle. She has won awards for university teaching and physics research in Australia and the USA. In 2023 she was the Australian Women in Physics Lecturer, plus was named a Superstar of STEM by Science and Technology Australia. In 2020 and 2025 she made large career changes...\n\n**5:30PM:** The event starts with a catch-up\n**6:00PM:** The presentation will begin\n\nWe'll gather at the NewyTechPeople office at 9 Downie St, Maryville NSW for this event.\n\nEveryone is welcome to this event, regardless of gender- so share it with your friends. Through these speaker events, we aim to share experiences and knowledge, that's how we learn, and that's how we can improve the community for everyone. We provide food, so let us know of any allergies :)",
-      "dateTime": "2025-05-08T17:30+10:00",
-      "eventUrl": "https://www.meetup.com/newcastle-women-and-gender-diverse-people-in-tech/events/306783053",
-      "going": 12,
-      "maxTickets": 40,
-      "duration": "PT2H",
-      "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/518951708/676x380.webp",
-      "venue": {
-        "name": "9 Downie St",
-        "lat": -32.912266,
-        "lng": 151.75763,
-        "address": "9 Downie St",
-        "city": "Maryville"
-      }
-    },
-    "group": {
-      "name": "Women & Gender Diverse People in Tech",
-      "urlname": "newcastle-women-and-gender-diverse-people-in-tech",
-      "groupPhoto": {
-        "id": "516565764",
-        "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
-        "preview": null
-      },
-      "logo": {
-        "id": "516565764",
-        "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
-        "preview": null
-      }
-    }
-  },
   {
     "event": {
       "title": "data.MAY <- A/B test design: from requirements gathering to conclusion",
