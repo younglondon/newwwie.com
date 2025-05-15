@@ -1,38 +1,5 @@
-// Auto Generated on 2025-05-14T13:24:19.520Z
+// Auto Generated on 2025-05-15T13:22:38.534Z
  module.exports = [
-  {
-    "event": {
-      "title": "data.MAY <- A/B test design: from requirements gathering to conclusion",
-      "description": "**Talk Description:** In this talk, I will shed light on the full cycle of A/B testing. We’ll cover requirements gathering from stakeholders, hypothesis formation, technical preparation, metrics and statistical criterion selection, MDE estimation, multiple comparison correction, SRM detection during user splitting, the peeking problem, and some options of process automation.\n\nWe’ll also discuss the bootstrap and delta methods for handling ratio metrics, as well as a variance reduction technique called CUPED.\n\n**Speaker Bio:** Hi, my name is Roman Feofanov, and I have been working as a Data Analyst for the past five years. Throughout my career, I have conducted numerous A/B tests across a banking product and a streaming service. I failed many of them — and learned even more from those failures. I would be excited to share some real-world cases and insights with you.\n\n🏢 **Venue**: NewyTechPeople Offices L2, 9 Downie St, Maryville NSW 2293\n\n[https://maps.app.goo.gl/QssJqKTbwyaKQMxu9](https://maps.app.goo.gl/QssJqKTbwyaKQMxu9)\n\n* We will meet on the Level 2 Seminar Space.\n\n##-------------------------------------------------------------------##\n\n🕠 TIME: 5.30pm - 7.30pm\n\nFOOD: 🍕 + 🥤\n\n* Wood fired pizza, sponsored by NewyTechPeople\n* Soft drinks\n\nSCHEDULE:\n\n* 5:30pm: Networking + Food + Drinks\n\n(Don't stress if you are held up in traffic)\n\n* 6:15pm: Presentation\n* 7:15pm: Packing up + Bonus questions\n* 7:30pm: Close\n* 7:30pm+: [Unofficially] anyone wanting to continue chatting, we usually head to a bar (The Maryville Tavern) which is a short walk from the venue.",
-      "dateTime": "2025-05-15T17:30+10:00",
-      "eventUrl": "https://www.meetup.com/hunter-data-analytics/events/303852195",
-      "going": 15,
-      "maxTickets": 0,
-      "duration": "PT2H",
-      "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/527688980/676x380.webp",
-      "venue": {
-        "name": "NewyTechPeople",
-        "lat": -32.912285,
-        "lng": 151.75766,
-        "address": "9 Downie Street",
-        "city": "Marysville"
-      }
-    },
-    "group": {
-      "name": "Hunter Data Analytics",
-      "urlname": "hunter-data-analytics",
-      "groupPhoto": {
-        "id": "483576656",
-        "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
-        "preview": null
-      },
-      "logo": {
-        "id": "483576656",
-        "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
-        "preview": null
-      }
-    }
-  },
   {
     "event": {
       "title": "NCSG MAY 2025 | PLACEHOLDER",
