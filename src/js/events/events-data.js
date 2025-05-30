@@ -1,4 +1,4 @@
-// Auto Generated on 2025-05-29T13:24:14.363Z
+// Auto Generated on 2025-05-30T13:23:47.859Z
  module.exports = [
   {
     "event": {
@@ -6,7 +6,7 @@
       "description": "Howdy Coders,\nFresh off the back of SlashNEW we'll have Klee Thomas giving us a talk about the written but poorly understood rules of software development.\n\nWe'll be at the Endava Offices in Hunter street.\n\nWe'd like to thank our sponsors:\n\n* Saphi Engineering\n* Newy Tech People\n* Endava\n\n**About the talk**\nHave you ever sat in a meeting where some smarty pants developer has mentioned “Someone’s” Law/Principle/Principle/etc and just expected that you knew it? I have and it made me feel ignorant and uneducated. Come with me as dive into the key laws that software developers and those around software developers should be aware of and how these laws apply to the work we do every day.\nI’m not a lawyer and this is not about anything legal just the unofficial rules that govern the world of software development.\n\n**About Klee**\nKlee is a Software Developer working at Atlassian, and organiser of the Newcastle Coders Group. He is an advocate of agile and Clean Code software development methodologies who loves to talk about what we can do to build better quality, maintainable software. Outside of software development Klee is a fan of Martial Arts, Motorcycles, Netflix and spending time with his wife and cats.",
       "dateTime": "2025-06-04T18:00+10:00",
       "eventUrl": "https://www.meetup.com/newcastle-coders-group/events/308129956",
-      "going": 10,
+      "going": 15,
       "maxTickets": 0,
       "duration": "PT2H",
       "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/505406540/676x380.webp",
@@ -105,7 +105,7 @@
       "description": "This is a save-the-date event\n\n**Event details:**\n\nVenue: 16 Honeysuckle Drive, Newcastle (The University of Newcastle 'Q Building') - second floor\n\nFood: PIZZAS Provided, please inform us of dietary requirements when RSVPing\n\nDrink: Non-alcoholic provided\n\n**Getting there/parking/public transport:**\n\n* Event location is [here](https://goo.gl/maps/rCqoDx8MbjqyeHTMA)\n* Please try and get in the door before 6:10pm. We check occasionally but you might get stuck outside in the cold for a while.\n* The [car park behind the building](https://goo.gl/maps/FzNNQfbAxxW38GNr7) is free after 5PM, and generally has plenty of room.\n* The closest public transport point is [Honeysuckle Light Rail Station](https://goo.gl/maps/3P2BpkiMaCeZ8isk9), which will take you to Newcastle Interchange and beyond every \\~7min or so. Walk along Honeysuckle Drive for a better-lit pathway.\n\n**The rest:**\n\nIf you’re experiencing any symptoms representative of COVID-19, please don’t attend. We’ll miss you, but the health/safety of attendees is paramount.\n\nNCSG is a community group determined to improve and uplift the Newcastle cybersecurity community. We meet monthly (on the last Wednesday of each month) and have a bunch of interesting speakers, from local legends to heavy hitters in the enterprise world.\n\n**Want to learn more?** Be sure to follow us on [LinkedIn](https://www.linkedin.com/company/newcastlecybersecuritygroup/) or visit newwwie.com, join the community and come and chat in the #security channel.\n\n**Keen on speaking? Reach out at the event, or message us here.**",
       "dateTime": "2025-06-25T18:00+10:00",
       "eventUrl": "https://www.meetup.com/newcastle-cyber-security-group/events/307362823",
-      "going": 4,
+      "going": 5,
       "maxTickets": 0,
       "duration": "PT3H",
       "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/483205216/676x380.webp",
