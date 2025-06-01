@@ -1,4 +1,4 @@
-// Auto Generated on 2025-05-31T13:20:54.907Z
+// Auto Generated on 2025-06-01T13:20:13.939Z
  module.exports = [
   {
     "event": {
@@ -6,7 +6,7 @@
       "description": "Howdy Coders,\nFresh off the back of SlashNEW we'll have 2 speakers\n\n* Shan Arora Streamline Access Control with Policy as Code\n* Klee Thomas Occam -> Peter, explaining the poorly written rules of software.\n\nWe'll be at the Endava Offices in Hunter Street.\n\nWe'd like to thank our sponsors:\n\n* Saphi Engineering\n* Newy Tech People\n* Endava\n\n**About Klee's talk**\nHave you ever sat in a meeting where some smarty pants developer has mentioned “Someone’s” Law/Principle/Principle/etc and just expected that you knew it? I have and it made me feel ignorant and uneducated. Come with me as dive into the key laws that software developers and those around software developers should be aware of and how these laws apply to the work we do every day.\nI’m not a lawyer and this is not about anything legal just the unofficial rules that govern the world of software development.\n\n**Streamline Access Control with Policy as Code**\nHow can we adapt access control to evolving business needs and product requirements?How can we decouple authorization from our applications without losing the benefits of modern software delivery?We’ll unpack the what, why, and how of Policy as Code. Using Open Policy Agent (OPA), we’ll demonstrate how to define and enforce flexible, centralized policies that evolve with your system and product.We’ll look at how this approach brings clarity to authorization and aligns access control with evolving businesses and products.\n\n**About Shaan:**\nShaan Arora is an energetic senior software engineer from Endava, shipping digital experiences & aligning technology with customer needs across a variety of verticals from E-Commerce to med tech to IoT. In his free time, Shaan is an avid foodie, globe trotter, banter enthusiast who is well known for his love of heavy metal, enthusiastically ignored by his noise-cancelling headphones–wearing colleagues.\n\n**About Klee**\nKlee is a Software Developer working at Atlassian, and organiser of the Newcastle Coders Group. He is an advocate of agile and Clean Code software development methodologies who loves to talk about what we can do to build better quality, maintainable software. Outside of software development Klee is a fan of Martial Arts, Motorcycles, Netflix and spending time with his wife and cats.",
       "dateTime": "2025-06-04T18:00+10:00",
       "eventUrl": "https://www.meetup.com/newcastle-coders-group/events/308129956",
-      "going": 16,
+      "going": 17,
       "maxTickets": 0,
       "duration": "PT2H",
       "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/505406540/676x380.webp",
