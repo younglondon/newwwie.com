@@ -1,38 +1,5 @@
-// Auto Generated on 2025-06-03T13:27:15.316Z
+// Auto Generated on 2025-06-04T13:27:58.781Z
  module.exports = [
-  {
-    "event": {
-      "title": "Klee Thomas: Ocam to Peter & Shaan Arora: Access Control with Policy as code",
-      "description": "Howdy Coders,\nFresh off the back of SlashNEW we'll have 2 speakers\n\n* Shan Arora Streamline Access Control with Policy as Code\n* Klee Thomas Occam -> Peter, explaining the poorly written rules of software.\n\nWe'll be at the Endava Offices in Hunter Street.\n\nWe'd like to thank our sponsors:\n\n* Saphi Engineering\n* Newy Tech People\n* Endava\n\n**About Klee's talk**\nHave you ever sat in a meeting where some smarty pants developer has mentioned “Someone’s” Law/Principle/Principle/etc and just expected that you knew it? I have and it made me feel ignorant and uneducated. Come with me as dive into the key laws that software developers and those around software developers should be aware of and how these laws apply to the work we do every day.\nI’m not a lawyer and this is not about anything legal just the unofficial rules that govern the world of software development.\n\n**Streamline Access Control with Policy as Code**\nHow can we adapt access control to evolving business needs and product requirements?How can we decouple authorization from our applications without losing the benefits of modern software delivery?We’ll unpack the what, why, and how of Policy as Code. Using Open Policy Agent (OPA), we’ll demonstrate how to define and enforce flexible, centralized policies that evolve with your system and product.We’ll look at how this approach brings clarity to authorization and aligns access control with evolving businesses and products.\n\n**About Shaan:**\nShaan Arora is an energetic senior software engineer from Endava, shipping digital experiences & aligning technology with customer needs across a variety of verticals from E-Commerce to med tech to IoT. In his free time, Shaan is an avid foodie, globe trotter, banter enthusiast who is well known for his love of heavy metal, enthusiastically ignored by his noise-cancelling headphones–wearing colleagues.\n\n**About Klee**\nKlee is a Software Developer working at Atlassian, and organiser of the Newcastle Coders Group. He is an advocate of agile and Clean Code software development methodologies who loves to talk about what we can do to build better quality, maintainable software. Outside of software development Klee is a fan of Martial Arts, Motorcycles, Netflix and spending time with his wife and cats.",
-      "dateTime": "2025-06-04T18:00+10:00",
-      "eventUrl": "https://www.meetup.com/newcastle-coders-group/events/308129956",
-      "going": 25,
-      "maxTickets": 0,
-      "duration": "PT2H",
-      "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/505406540/676x380.webp",
-      "venue": {
-        "name": "Endava Newcastle",
-        "lat": -32.926075,
-        "lng": 151.7626,
-        "address": "8/710 Hunter Street",
-        "city": "Newcastle"
-      }
-    },
-    "group": {
-      "name": "Newcastle Coders Group",
-      "urlname": "newcastle-coders-group",
-      "groupPhoto": {
-        "id": "505406540",
-        "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
-        "preview": null
-      },
-      "logo": {
-        "id": "505406540",
-        "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
-        "preview": null
-      }
-    }
-  },
   {
     "event": {
       "title": "WGDTech June: Pub Catch-up",
@@ -68,7 +35,7 @@
   },
   {
     "event": {
-      "title": "data.JUN <- TBD Save the date",
+      "title": "No event at June",
       "description": "Hi our brilliant data attendees,\n\nWe’d like to inform everyone that **there will be no events in June**. We're taking a short break and will **return in July** with more exciting sessions and data-driven insights!\n\nThank you for your continued support—see you next month!\n\n— *The Hunter Data Analytics Group*",
       "dateTime": "2025-06-19T17:30+10:00",
       "eventUrl": "https://www.meetup.com/hunter-data-analytics/events/303852200",
