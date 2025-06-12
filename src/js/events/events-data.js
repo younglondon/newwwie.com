@@ -1,38 +1,5 @@
-// Auto Generated on 2025-06-11T13:27:00.081Z
+// Auto Generated on 2025-06-12T13:26:37.952Z
  module.exports = [
-  {
-    "event": {
-      "title": "WGDTech June: Pub Catch-up",
-      "description": "The return of the classic pub meet-up; we're hosting another event for Women and Gender-Diverse People in Tech, and we'd love for you to join us!\n\nThis event is a casual networking, meetup at the pub. This pub meetup will take us back to our roots; whether you are a regular of WGDT or coming along for the first time, we're super friendly, and we're looking forward to seeing you!\n\nIf you're in tech, interested in tech, or just want to come along to see what we're about, you're more than welcome, we'd love to have you!\n\n**The details:**\n\n* **When**: Thursday, 12th June from 5:30PM to 7:30PM\n* **Where:** Honeysuckle Hotel\n\nWe usually provide food, so let us know of any allergies :)",
-      "dateTime": "2025-06-12T17:30+10:00",
-      "eventUrl": "https://www.meetup.com/newcastle-women-and-gender-diverse-people-in-tech/events/307856579",
-      "going": 10,
-      "maxTickets": 0,
-      "duration": "PT2H",
-      "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/527979360/676x380.webp",
-      "venue": {
-        "name": "Honeysuckle Hotel",
-        "lat": -32.925835,
-        "lng": 151.765778,
-        "address": "Lee Wharf C, Honeysuckle Drive",
-        "city": "Newcastle"
-      }
-    },
-    "group": {
-      "name": "Women & Gender Diverse People in Tech",
-      "urlname": "newcastle-women-and-gender-diverse-people-in-tech",
-      "groupPhoto": {
-        "id": "516565764",
-        "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
-        "preview": null
-      },
-      "logo": {
-        "id": "516565764",
-        "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
-        "preview": null
-      }
-    }
-  },
   {
     "event": {
       "title": "No event at June",
@@ -72,7 +39,7 @@
       "description": "This is a save-the-date event\n\n**Event details:**\n\nVenue: 16 Honeysuckle Drive, Newcastle (The University of Newcastle 'Q Building') - second floor\n\nFood: PIZZAS Provided, please inform us of dietary requirements when RSVPing\n\nDrink: Non-alcoholic provided\n\n**Getting there/parking/public transport:**\n\n* Event location is [here](https://goo.gl/maps/rCqoDx8MbjqyeHTMA)\n* Please try and get in the door before 6:10pm. We check occasionally but you might get stuck outside in the cold for a while.\n* The [car park behind the building](https://goo.gl/maps/FzNNQfbAxxW38GNr7) is free after 5PM, and generally has plenty of room.\n* The closest public transport point is [Honeysuckle Light Rail Station](https://goo.gl/maps/3P2BpkiMaCeZ8isk9), which will take you to Newcastle Interchange and beyond every \\~7min or so. Walk along Honeysuckle Drive for a better-lit pathway.\n\n**The rest:**\n\nIf you’re experiencing any symptoms representative of COVID-19, please don’t attend. We’ll miss you, but the health/safety of attendees is paramount.\n\nNCSG is a community group determined to improve and uplift the Newcastle cybersecurity community. We meet monthly (on the last Wednesday of each month) and have a bunch of interesting speakers, from local legends to heavy hitters in the enterprise world.\n\n**Want to learn more?** Be sure to follow us on [LinkedIn](https://www.linkedin.com/company/newcastlecybersecuritygroup/) or visit newwwie.com, join the community and come and chat in the #security channel.\n\n**Keen on speaking? Reach out at the event, or message us here.**",
       "dateTime": "2025-06-25T18:00+10:00",
       "eventUrl": "https://www.meetup.com/newcastle-cyber-security-group/events/307362823",
-      "going": 7,
+      "going": 8,
       "maxTickets": 0,
       "duration": "PT3H",
       "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/483205216/676x380.webp",
