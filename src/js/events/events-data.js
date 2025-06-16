@@ -1,4 +1,4 @@
-// Auto Generated on 2025-06-15T13:20:38.917Z
+// Auto Generated on 2025-06-16T13:27:35.459Z
  module.exports = [
   {
     "event": {
@@ -6,7 +6,7 @@
       "description": "Hi our brilliant data attendees,\n\nWe’d like to inform everyone that **there will be no events in June**. We're taking a short break and will **return in July** with more exciting sessions and data-driven insights!\n\nThank you for your continued support—see you next month!\n\n— *The Hunter Data Analytics Group*",
       "dateTime": "2025-06-19T17:30+10:00",
       "eventUrl": "https://www.meetup.com/hunter-data-analytics/events/303852200",
-      "going": 3,
+      "going": 2,
       "maxTickets": 0,
       "duration": "PT2H",
       "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/521973471/676x380.webp",
@@ -55,6 +55,39 @@
       },
       "logo": {
         "id": "483205216",
+        "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+        "preview": null
+      }
+    }
+  },
+  {
+    "event": {
+      "title": "Dan Van Heerden: Organizational Goals, & Ryder Retzlaff: Agent based coding",
+      "description": "This month we have two speakers, Ryder Retzlaff will be covering his work building real-world applications using agent-based coding techniques, and Daniel Van Heerden taking us through his Strategic Framework for Achieving Organisational Goals.\n\nWe're just locking in the venue at the moment, check back soon.\n\n**Building code with agent-based workflows**\nIn this talk, Ryder will take us through the work he's been doing building real-world code using agent-based workflows. If you're still using ChatGPT or CoPilot chat to help you \"pair program\" this talk will show you that you're leaving productivity on the table. Expect to come away from this talk a more productive developer.\n\n**Strategic Framework for Achieving Organisational Goals**\nIn a rapidly evolving business landscape, success is rarely accidental—it’s the product of deliberate strategy. This talk introduces a clear, actionable framework for aligning efforts across an organisation to achieve meaningful outcomes. We’ll explore the foundational elements of strategy: diagnosing challenges, crafting a guiding policy, and executing coherent actions. You’ll learn how organizational structure, OKRs (Objectives and Key Results), and quarterly roadmaps serve as critical tools to maintain alignment and momentum. Whether you're leading a team or shaping company-wide initiatives, this session will equip you with a structured approach to drive progress and deliver impact.",
+      "dateTime": "2025-07-02T18:00+10:00",
+      "eventUrl": "https://www.meetup.com/newcastle-coders-group/events/308521671",
+      "going": 1,
+      "maxTickets": 0,
+      "duration": "PT3H",
+      "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/505406540/676x380.webp",
+      "venue": {
+        "name": "Endava Newcastle",
+        "lat": -32.926075,
+        "lng": 151.7626,
+        "address": "8/710 Hunter Street",
+        "city": "Newcastle"
+      }
+    },
+    "group": {
+      "name": "Newcastle Coders Group",
+      "urlname": "newcastle-coders-group",
+      "groupPhoto": {
+        "id": "505406540",
+        "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+        "preview": null
+      },
+      "logo": {
+        "id": "505406540",
         "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
         "preview": null
       }
