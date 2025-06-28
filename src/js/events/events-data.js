@@ -1,12 +1,12 @@
-// Auto Generated on 2025-06-27T13:25:01.014Z
+// Auto Generated on 2025-06-28T13:20:52.758Z
  module.exports = [
   {
     "event": {
-      "title": "Dan Van Heerden: Organizational Goals, & Ryder Retzlaff: Agent based coding",
-      "description": "This month we have two speakers, Ryder Retzlaff will be covering his work building real-world applications using agent-based coding techniques, and Daniel Van Heerden taking us through his Strategic Framework for Achieving Organisational Goals.\n\nWe're just locking in the venue at the moment, check back soon.\n\n**Building code with agent-based workflows**\nIn this talk, Ryder will take us through the work he's been doing building real-world code using agent-based workflows. If you're still using ChatGPT or CoPilot chat to help you \"pair program\" this talk will show you that you're leaving productivity on the table. Expect to come away from this talk a more productive developer.\n\n**Strategic Framework for Achieving Organisational Goals**\nIn a rapidly evolving business landscape, success is rarely accidental—it’s the product of deliberate strategy. This talk introduces a clear, actionable framework for aligning efforts across an organisation to achieve meaningful outcomes. We’ll explore the foundational elements of strategy: diagnosing challenges, crafting a guiding policy, and executing coherent actions. You’ll learn how organizational structure, OKRs (Objectives and Key Results), and quarterly roadmaps serve as critical tools to maintain alignment and momentum. Whether you're leading a team or shaping company-wide initiatives, this session will equip you with a structured approach to drive progress and deliver impact.",
+      "title": "Dan Van Heerden: Strategic Framework for Achieving Organisational Goals",
+      "description": "This month we haveDaniel Van Heerden taking us through his Strategic Framework for Achieving Organisational Goals.\n\n**Strategic Framework for Achieving Organisational Goals**\nIn a rapidly evolving business landscape, success is rarely accidental—it’s the product of deliberate strategy. This talk introduces a clear, actionable framework for aligning efforts across an organisation to achieve meaningful outcomes. We’ll explore the foundational elements of strategy: diagnosing challenges, crafting a guiding policy, and executing coherent actions. You’ll learn how organizational structure, OKRs (Objectives and Key Results), and quarterly roadmaps serve as critical tools to maintain alignment and momentum. Whether you're leading a team or shaping company-wide initiatives, this session will equip you with a structured approach to drive progress and deliver impact.",
       "dateTime": "2025-07-02T18:00+10:00",
       "eventUrl": "https://www.meetup.com/newcastle-coders-group/events/308521671",
-      "going": 27,
+      "going": 30,
       "maxTickets": 0,
       "duration": "PT3H",
       "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/505406540/676x380.webp",
