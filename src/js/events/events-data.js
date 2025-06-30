@@ -1,4 +1,4 @@
-// Auto Generated on 2025-06-29T13:21:33.097Z
+// Auto Generated on 2025-06-30T13:27:03.945Z
  module.exports = [
   {
     "event": {
@@ -6,7 +6,7 @@
       "description": "This month we haveDaniel Van Heerden taking us through his Strategic Framework for Achieving Organisational Goals.\n\n**Strategic Framework for Achieving Organisational Goals**\nIn a rapidly evolving business landscape, success is rarely accidental—it’s the product of deliberate strategy. This talk introduces a clear, actionable framework for aligning efforts across an organisation to achieve meaningful outcomes. We’ll explore the foundational elements of strategy: diagnosing challenges, crafting a guiding policy, and executing coherent actions. You’ll learn how organizational structure, OKRs (Objectives and Key Results), and quarterly roadmaps serve as critical tools to maintain alignment and momentum. Whether you're leading a team or shaping company-wide initiatives, this session will equip you with a structured approach to drive progress and deliver impact.",
       "dateTime": "2025-07-02T18:00+10:00",
       "eventUrl": "https://www.meetup.com/newcastle-coders-group/events/308521671",
-      "going": 31,
+      "going": 35,
       "maxTickets": 0,
       "duration": "PT3H",
       "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/505406540/676x380.webp",
@@ -28,6 +28,39 @@
       },
       "logo": {
         "id": "505406540",
+        "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+        "preview": null
+      }
+    }
+  },
+  {
+    "event": {
+      "title": "WGDPTech Meet-up: 5 Minds - Indigenous Ways of Thinking with Emily Hill",
+      "description": "We're back again for another meet-up in July, and this presentation is set to be a big one! We'll be hearing from Emily Hill on 5 Minds - Indigenous Ways of Thinking in a workshop-style session that is bound to get you thinking.\n\nEmily Hill has traversed sewage, construction, and mining to land in the water sector, where she finds passion and purpose in serving her community. With 8 years experience she's a mechanical engineer by trade, which feels tech-adjacent with all the data analysis, automation, and productivity efficiencies that are driving the water industry at the moment. Passionate about inclusion in all its forms; biological, background and thought.\n\n**The topic:**\nEmily will be running a workshop to introduce 5 Minds - Indigenous Ways of Thinking, based on Tyson Yunkaporta's book Sand Talk. Our western approach tends to be very single-minded and outcome-focused, whereas indigenous Australian's have been operating in systems-thinking and beyond for 60,000+ years. Learn about what these ways of thinking are and how to practice them on the night's topic - Gender bias.\n\n**5:30PM:** The event starts with a catch-up\n**6:00PM:** The presentation will begin\n\nWe'll gather at the NewyTechPeople office at 9 Downie St, Maryville NSW for this event.\n\nEveryone is welcome to this event, regardless of gender- so share it with your friends. Through these speaker events, we aim to share experiences and knowledge, that's how we learn, and that's how we can improve the community for everyone. We provide food, so let us know of any allergies :)",
+      "dateTime": "2025-07-10T17:30+10:00",
+      "eventUrl": "https://www.meetup.com/newcastle-women-and-gender-diverse-people-in-tech/events/308745863",
+      "going": 7,
+      "maxTickets": 40,
+      "duration": "PT2H",
+      "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/518951708/676x380.webp",
+      "venue": {
+        "name": "9 Downie St",
+        "lat": -32.912266,
+        "lng": 151.75763,
+        "address": "9 Downie St",
+        "city": "Maryville"
+      }
+    },
+    "group": {
+      "name": "Women & Gender Diverse People in Tech",
+      "urlname": "newcastle-women-and-gender-diverse-people-in-tech",
+      "groupPhoto": {
+        "id": "516565764",
+        "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+        "preview": null
+      },
+      "logo": {
+        "id": "516565764",
         "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
         "preview": null
       }
@@ -88,6 +121,39 @@
       },
       "logo": {
         "id": "483205216",
+        "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+        "preview": null
+      }
+    }
+  },
+  {
+    "event": {
+      "title": "WGDPTech Meet-up August",
+      "description": "We're back again for another meet-up in August. Watch this space for further announcements on speakers :)\n\n**5:30PM:** The event starts with a catch-up\n**6:00PM:** The presentation will begin\n\nWe'll gather at the NewyTechPeople office at 9 Downie St, Maryville NSW for this event.\n\nEveryone is welcome to this event, regardless of gender- so share it with your friends. Through these speaker events, we aim to share experiences and knowledge, that's how we learn, and that's how we can improve the community for everyone. We provide food, so let us know of any allergies :)",
+      "dateTime": "2025-08-14T17:30+10:00",
+      "eventUrl": "https://www.meetup.com/newcastle-women-and-gender-diverse-people-in-tech/events/308746146",
+      "going": 2,
+      "maxTickets": 40,
+      "duration": "PT2H",
+      "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/518951708/676x380.webp",
+      "venue": {
+        "name": "9 Downie St",
+        "lat": -32.912266,
+        "lng": 151.75763,
+        "address": "9 Downie St",
+        "city": "Maryville"
+      }
+    },
+    "group": {
+      "name": "Women & Gender Diverse People in Tech",
+      "urlname": "newcastle-women-and-gender-diverse-people-in-tech",
+      "groupPhoto": {
+        "id": "516565764",
+        "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+        "preview": null
+      },
+      "logo": {
+        "id": "516565764",
         "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
         "preview": null
       }
