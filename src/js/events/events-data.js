@@ -1,38 +1,5 @@
-// Auto Generated on 2025-07-01T13:27:15.820Z
+// Auto Generated on 2025-07-02T13:26:36.456Z
  module.exports = [
-  {
-    "event": {
-      "title": "Dan Van Heerden: Strategic Framework for Achieving Organisational Goals",
-      "description": "This month we haveDaniel Van Heerden taking us through his Strategic Framework for Achieving Organisational Goals.\n\n**Strategic Framework for Achieving Organisational Goals**\nIn a rapidly evolving business landscape, success is rarely accidental—it’s the product of deliberate strategy. This talk introduces a clear, actionable framework for aligning efforts across an organisation to achieve meaningful outcomes. We’ll explore the foundational elements of strategy: diagnosing challenges, crafting a guiding policy, and executing coherent actions. You’ll learn how organizational structure, OKRs (Objectives and Key Results), and quarterly roadmaps serve as critical tools to maintain alignment and momentum. Whether you're leading a team or shaping company-wide initiatives, this session will equip you with a structured approach to drive progress and deliver impact.",
-      "dateTime": "2025-07-02T18:00+10:00",
-      "eventUrl": "https://www.meetup.com/newcastle-coders-group/events/308521671",
-      "going": 34,
-      "maxTickets": 0,
-      "duration": "PT3H",
-      "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/505406540/676x380.webp",
-      "venue": {
-        "name": "Endava Newcastle",
-        "lat": -32.926075,
-        "lng": 151.7626,
-        "address": "8/710 Hunter Street",
-        "city": "Newcastle"
-      }
-    },
-    "group": {
-      "name": "Newcastle Coders Group",
-      "urlname": "newcastle-coders-group",
-      "groupPhoto": {
-        "id": "505406540",
-        "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
-        "preview": null
-      },
-      "logo": {
-        "id": "505406540",
-        "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
-        "preview": null
-      }
-    }
-  },
   {
     "event": {
       "title": "WGDPTech Meet-up: 5 Minds - Indigenous Ways of Thinking with Emily Hill",
