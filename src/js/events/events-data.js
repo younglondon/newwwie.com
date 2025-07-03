@@ -1,4 +1,4 @@
-// Auto Generated on 2025-07-02T13:26:36.456Z
+// Auto Generated on 2025-07-03T13:25:14.524Z
  module.exports = [
   {
     "event": {
@@ -6,7 +6,7 @@
       "description": "We're back again for another meet-up in July, and this presentation is set to be a big one! We'll be hearing from Emily Hill on 5 Minds - Indigenous Ways of Thinking in a workshop-style session that is bound to get you thinking.\n\nEmily Hill has traversed sewage, construction, and mining to land in the water sector, where she finds passion and purpose in serving her community. With 8 years experience she's a mechanical engineer by trade, which feels tech-adjacent with all the data analysis, automation, and productivity efficiencies that are driving the water industry at the moment. Passionate about inclusion in all its forms; biological, background and thought.\n\n**The topic:**\nEmily will be running a workshop to introduce 5 Minds - Indigenous Ways of Thinking, based on Tyson Yunkaporta's book Sand Talk. Our western approach tends to be very single-minded and outcome-focused, whereas indigenous Australian's have been operating in systems-thinking and beyond for 60,000+ years. Learn about what these ways of thinking are and how to practice them on the night's topic - Gender bias.\n\n**5:30PM:** The event starts with a catch-up\n**6:00PM:** The presentation will begin\n\nWe'll gather at the NewyTechPeople office at 9 Downie St, Maryville NSW for this event.\n\nEveryone is welcome to this event, regardless of gender- so share it with your friends. Through these speaker events, we aim to share experiences and knowledge, that's how we learn, and that's how we can improve the community for everyone. We provide food, so let us know of any allergies :)",
       "dateTime": "2025-07-10T17:30+10:00",
       "eventUrl": "https://www.meetup.com/newcastle-women-and-gender-diverse-people-in-tech/events/308745863",
-      "going": 7,
+      "going": 6,
       "maxTickets": 40,
       "duration": "PT2H",
       "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/518951708/676x380.webp",
