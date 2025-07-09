@@ -1,4 +1,4 @@
-// Auto Generated on 2025-07-08T13:28:07.424Z
+// Auto Generated on 2025-07-09T13:27:41.445Z
  module.exports = [
   {
     "event": {
@@ -39,7 +39,7 @@
       "description": "🗣️**Talk Title**: *Behind the Data Curtain: How companies track you online and what they do with the data*\n\n🗣️**Talk Description**: *This month, we're thrilled to welcome Jacob Moran, our speaker on July's meetup. We all know companies track us online, but how do they actually do it? In this talk, Jacob will deep-dive into a popular Australian company and how they are tracking you across their website and social media platforms.*\n\n*Along the way, he'll also talk about the history of digital analytics and show you a glimpse into the future.*\n\n🎙️**Speaker Bio**: *Jacob is the Product Owner for ANZ Plus’s Data Mesh team, where he leads multiple teams in building and supporting Australia’s largest data mesh.*\n\n*A proud Novocastrian, Jacob began his journey in website analytics at nib, and over the past decade, he’s brought his expertise to start-ups, government, and major corporations across Sydney and Melbourne.*\n\n*Outside the world of data, Jacob enjoys golf, music, and history — so don’t hesitate to connect with him on any of these at the meetup!*\n\n🕒 **When**: Third Thursday of the Month 5.30pm-7.30pm\n\n🏢 **Venue**: NewyTechPeople Offices L2, 9 Downie St, Maryville NSW 2293\n[https://maps.app.goo.gl/aX26f7miSHQ7Axah7](https://maps.app.goo.gl/aX26f7miSHQ7Axah7)\n\n**SCHEDULE:**\n\n* 5:30pm: Networking + Food + Drinks\n\n(Don't stress if you are held up in traffic)\n\n* 6:15pm: Presentation\n* 7:15pm: Packing up + Bonus questions\n* 7:30pm: Close\n* 7:30pm+: [Unofficially] anyone wanting to continue chatting.",
       "dateTime": "2025-07-17T17:30+10:00",
       "eventUrl": "https://www.meetup.com/hunter-data-analytics/events/303852204",
-      "going": 12,
+      "going": 13,
       "maxTickets": 0,
       "duration": "PT2H",
       "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/528957755/676x380.webp",
