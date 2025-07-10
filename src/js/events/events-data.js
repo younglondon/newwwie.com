@@ -1,45 +1,12 @@
-// Auto Generated on 2025-07-09T13:27:41.445Z
+// Auto Generated on 2025-07-10T13:28:17.104Z
  module.exports = [
-  {
-    "event": {
-      "title": "WGDPTech Meet-up: 5 Minds - Indigenous Ways of Thinking with Emily Hill",
-      "description": "We're back again for another meet-up in July, and this presentation is set to be a big one! We'll be hearing from Emily Hill on 5 Minds - Indigenous Ways of Thinking in a workshop-style session that is bound to get you thinking.\n\nEmily Hill has traversed sewage, construction, and mining to land in the water sector, where she finds passion and purpose in serving her community. With 8 years experience she's a mechanical engineer by trade, which feels tech-adjacent with all the data analysis, automation, and productivity efficiencies that are driving the water industry at the moment. Passionate about inclusion in all its forms; biological, background and thought.\n\n**The topic:**\nEmily will be running a workshop to introduce 5 Minds - Indigenous Ways of Thinking, based on Tyson Yunkaporta's book Sand Talk. Our western approach tends to be very single-minded and outcome-focused, whereas indigenous Australian's have been operating in systems-thinking and beyond for 60,000+ years. Learn about what these ways of thinking are and how to practice them on the night's topic - Gender bias.\n\n**5:30PM:** The event starts with a catch-up\n**6:00PM:** The presentation will begin\n\nWe'll gather at the NewyTechPeople office at 9 Downie St, Maryville NSW for this event.\n\nEveryone is welcome to this event, regardless of gender- so share it with your friends. Through these speaker events, we aim to share experiences and knowledge, that's how we learn, and that's how we can improve the community for everyone. We provide food, so let us know of any allergies :)",
-      "dateTime": "2025-07-10T17:30+10:00",
-      "eventUrl": "https://www.meetup.com/newcastle-women-and-gender-diverse-people-in-tech/events/308745863",
-      "going": 6,
-      "maxTickets": 40,
-      "duration": "PT2H",
-      "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/518951708/676x380.webp",
-      "venue": {
-        "name": "9 Downie St",
-        "lat": -32.912266,
-        "lng": 151.75763,
-        "address": "9 Downie St",
-        "city": "Maryville"
-      }
-    },
-    "group": {
-      "name": "Women & Gender Diverse People in Tech",
-      "urlname": "newcastle-women-and-gender-diverse-people-in-tech",
-      "groupPhoto": {
-        "id": "516565764",
-        "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
-        "preview": null
-      },
-      "logo": {
-        "id": "516565764",
-        "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
-        "preview": null
-      }
-    }
-  },
   {
     "event": {
       "title": "How companies track you online and what they do with the data",
       "description": "🗣️**Talk Title**: *Behind the Data Curtain: How companies track you online and what they do with the data*\n\n🗣️**Talk Description**: *This month, we're thrilled to welcome Jacob Moran, our speaker on July's meetup. We all know companies track us online, but how do they actually do it? In this talk, Jacob will deep-dive into a popular Australian company and how they are tracking you across their website and social media platforms.*\n\n*Along the way, he'll also talk about the history of digital analytics and show you a glimpse into the future.*\n\n🎙️**Speaker Bio**: *Jacob is the Product Owner for ANZ Plus’s Data Mesh team, where he leads multiple teams in building and supporting Australia’s largest data mesh.*\n\n*A proud Novocastrian, Jacob began his journey in website analytics at nib, and over the past decade, he’s brought his expertise to start-ups, government, and major corporations across Sydney and Melbourne.*\n\n*Outside the world of data, Jacob enjoys golf, music, and history — so don’t hesitate to connect with him on any of these at the meetup!*\n\n🕒 **When**: Third Thursday of the Month 5.30pm-7.30pm\n\n🏢 **Venue**: NewyTechPeople Offices L2, 9 Downie St, Maryville NSW 2293\n[https://maps.app.goo.gl/aX26f7miSHQ7Axah7](https://maps.app.goo.gl/aX26f7miSHQ7Axah7)\n\n**SCHEDULE:**\n\n* 5:30pm: Networking + Food + Drinks\n\n(Don't stress if you are held up in traffic)\n\n* 6:15pm: Presentation\n* 7:15pm: Packing up + Bonus questions\n* 7:30pm: Close\n* 7:30pm+: [Unofficially] anyone wanting to continue chatting.",
       "dateTime": "2025-07-17T17:30+10:00",
       "eventUrl": "https://www.meetup.com/hunter-data-analytics/events/303852204",
-      "going": 13,
+      "going": 15,
       "maxTickets": 0,
       "duration": "PT2H",
       "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/528957755/676x380.webp",
@@ -99,7 +66,7 @@
       "description": "We're back again for another meet-up in August. Watch this space for further announcements on speakers :)\n\n**5:30PM:** The event starts with a catch-up\n**6:00PM:** The presentation will begin\n\nWe'll gather at the NewyTechPeople office at 9 Downie St, Maryville NSW for this event.\n\nEveryone is welcome to this event, regardless of gender- so share it with your friends. Through these speaker events, we aim to share experiences and knowledge, that's how we learn, and that's how we can improve the community for everyone. We provide food, so let us know of any allergies :)",
       "dateTime": "2025-08-14T17:30+10:00",
       "eventUrl": "https://www.meetup.com/newcastle-women-and-gender-diverse-people-in-tech/events/308746146",
-      "going": 2,
+      "going": 3,
       "maxTickets": 40,
       "duration": "PT2H",
       "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/518951708/676x380.webp",
