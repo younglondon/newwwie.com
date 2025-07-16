@@ -1,4 +1,4 @@
-// Auto Generated on 2025-07-15T13:30:38.326Z
+// Auto Generated on 2025-07-16T13:31:15.767Z
  module.exports = [
   {
     "event": {
@@ -6,7 +6,7 @@
       "description": "🗣️**Talk Title**: *Behind the Data Curtain: How companies track you online and what they do with the data*\n\n🗣️**Talk Description**: *This month, we're thrilled to welcome Jacob Moran, our speaker on July's meetup. We all know companies track us online, but how do they actually do it? In this talk, Jacob will deep-dive into a popular Australian company and how they are tracking you across their website and social media platforms.*\n\n*Along the way, he'll also talk about the history of digital analytics and show you a glimpse into the future.*\n\n🎙️**Speaker Bio**: *Jacob is the Product Owner for ANZ Plus’s Data Mesh team, where he leads multiple teams in building and supporting Australia’s largest data mesh.*\n\n*A proud Novocastrian, Jacob began his journey in website analytics at nib, and over the past decade, he’s brought his expertise to start-ups, government, and major corporations across Sydney and Melbourne.*\n\n*Outside the world of data, Jacob enjoys golf, music, and history — so don’t hesitate to connect with him on any of these at the meetup!*\n\n🕒 **When**: Third Thursday of the Month 5.30pm-7.30pm\n\n🏢 **Venue**: NewyTechPeople Offices L2, 9 Downie St, Maryville NSW 2293\n[https://maps.app.goo.gl/aX26f7miSHQ7Axah7](https://maps.app.goo.gl/aX26f7miSHQ7Axah7)\n\n**SCHEDULE:**\n\n* 5:30pm: Networking + Food + Drinks\n\n(Don't stress if you are held up in traffic)\n\n* 6:15pm: Presentation\n* 7:15pm: Packing up + Bonus questions\n* 7:30pm: Close\n* 7:30pm+: [Unofficially] anyone wanting to continue chatting.",
       "dateTime": "2025-07-17T17:30+10:00",
       "eventUrl": "https://www.meetup.com/hunter-data-analytics/events/303852204",
-      "going": 17,
+      "going": 18,
       "maxTickets": 0,
       "duration": "PT2H",
       "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/528957755/676x380.webp",
@@ -39,7 +39,7 @@
       "description": "This is a save-the-date event\n\n**Event details:**\n\nVenue: 16 Honeysuckle Drive, Newcastle (The University of Newcastle 'Q Building') - second floor\n\nFood: PIZZAS Provided, please inform us of dietary requirements when RSVPing\n\nDrink: Non-alcoholic provided\n\n**Getting there/parking/public transport:**\n\n* Event location is [here](https://goo.gl/maps/rCqoDx8MbjqyeHTMA)\n* Please try and get in the door before 6:10pm. We check occasionally but you might get stuck outside in the cold for a while.\n* The [car park behind the building](https://goo.gl/maps/FzNNQfbAxxW38GNr7) is free after 5PM, and generally has plenty of room.\n* The closest public transport point is [Honeysuckle Light Rail Station](https://goo.gl/maps/3P2BpkiMaCeZ8isk9), which will take you to Newcastle Interchange and beyond every \\~7min or so. Walk along Honeysuckle Drive for a better-lit pathway.\n\n**The rest:**\n\nIf you’re experiencing any symptoms representative of COVID-19, please don’t attend. We’ll miss you, but the health/safety of attendees is paramount.\n\nNCSG is a community group determined to improve and uplift the Newcastle cybersecurity community. We meet monthly (on the last Wednesday of each month) and have a bunch of interesting speakers, from local legends to heavy hitters in the enterprise world.\n\n**Want to learn more?** Be sure to follow us on [LinkedIn](https://www.linkedin.com/company/newcastlecybersecuritygroup/) or visit newwwie.com, join the community and come and chat in the #security channel.\n\n**Keen on speaking? Reach out at the event, or message us here.**",
       "dateTime": "2025-07-30T18:00+10:00",
       "eventUrl": "https://www.meetup.com/newcastle-cyber-security-group/events/307362828",
-      "going": 6,
+      "going": 7,
       "maxTickets": 0,
       "duration": "PT3H",
       "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/483205216/676x380.webp",
