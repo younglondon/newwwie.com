@@ -1,4 +1,4 @@
-// Auto Generated on 2025-07-18T13:30:43.079Z
+// Auto Generated on 2025-07-19T13:23:24.265Z
  module.exports = [
   {
     "event": {
@@ -29,8 +29,8 @@
   },
   {
     "event": {
-      "title": "August",
-      "description": "More info soon",
+      "title": "August: Cole Cornford on Public Speaking",
+      "description": "Howdy Coders,\nThis month, we'll have Cole Cornford deliver a master class on how to become a better public speaker.\n\nPublic speaking is a vital skill for all tech folk. At some point, you'll find yourself in front of a crowd giving a talk, and you'll need to be engaging and entertaining. This could involve daily tasks like presenting your work to stakeholders at a sprint demo, proposing a change to a technical steering committee, or stepping up to speak at a Meetup or Conference.",
       "dateTime": "2025-08-06T18:00+10:00",
       "eventUrl": "https://www.meetup.com/newcastle-coders-group/events/309649227",
       "going": 1,
