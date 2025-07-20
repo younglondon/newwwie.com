@@ -1,4 +1,4 @@
-// Auto Generated on 2025-07-19T13:23:24.265Z
+// Auto Generated on 2025-07-20T13:24:42.779Z
  module.exports = [
   {
     "event": {
@@ -33,7 +33,7 @@
       "description": "Howdy Coders,\nThis month, we'll have Cole Cornford deliver a master class on how to become a better public speaker.\n\nPublic speaking is a vital skill for all tech folk. At some point, you'll find yourself in front of a crowd giving a talk, and you'll need to be engaging and entertaining. This could involve daily tasks like presenting your work to stakeholders at a sprint demo, proposing a change to a technical steering committee, or stepping up to speak at a Meetup or Conference.",
       "dateTime": "2025-08-06T18:00+10:00",
       "eventUrl": "https://www.meetup.com/newcastle-coders-group/events/309649227",
-      "going": 1,
+      "going": 2,
       "maxTickets": 0,
       "duration": "PT2H",
       "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/505406540/676x380.webp",
@@ -60,7 +60,7 @@
       "description": "We're back again for another meet-up in August. Watch this space for further announcements on speakers :)\n\n**5:30PM:** The event starts with a catch-up\n**6:00PM:** The presentation will begin\n\nWe'll gather at the NewyTechPeople office at 9 Downie St, Maryville NSW for this event.\n\nEveryone is welcome to this event, regardless of gender- so share it with your friends. Through these speaker events, we aim to share experiences and knowledge, that's how we learn, and that's how we can improve the community for everyone. We provide food, so let us know of any allergies :)",
       "dateTime": "2025-08-14T17:30+10:00",
       "eventUrl": "https://www.meetup.com/newcastle-women-and-gender-diverse-people-in-tech/events/308746146",
-      "going": 3,
+      "going": 4,
       "maxTickets": 40,
       "duration": "PT2H",
       "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/518951708/676x380.webp",
