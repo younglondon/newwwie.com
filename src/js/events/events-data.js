@@ -1,4 +1,4 @@
-// Auto Generated on 2025-07-23T13:32:35.421Z
+// Auto Generated on 2025-07-24T13:32:23.139Z
  module.exports = [
   {
     "event": {
@@ -30,14 +30,20 @@
   {
     "event": {
       "title": "August: Cole Cornford on Public Speaking",
-      "description": "Howdy Coders,\nThis month, we'll have Cole Cornford deliver a master class on how to become a better public speaker.\n\nPublic speaking is a vital skill for all tech folk. At some point, you'll find yourself in front of a crowd giving a talk, and you'll need to be engaging and entertaining. This could involve daily tasks like presenting your work to stakeholders at a sprint demo, proposing a change to a technical steering committee, or stepping up to speak at a Meetup or Conference.",
+      "description": "Howdy Coders,\nThis month, we'll have Cole Cornford deliver a master class on how to become a better public speaker.\n\nPublic speaking is a vital skill for all tech folk. At some point, you'll find yourself in front of a crowd giving a talk, and you'll need to be engaging and entertaining. This could involve daily tasks like presenting your work to stakeholders at a sprint demo, proposing a change to a technical steering committee, or stepping up to speak at a Meetup or Conference.\n\nWe'd like to thank our sponsors:\n\n* Saphi Engineering\n* Newy Tech People\n* Endava Newcastle",
       "dateTime": "2025-08-06T18:00+10:00",
       "eventUrl": "https://www.meetup.com/newcastle-coders-group/events/309649227",
-      "going": 4,
+      "going": 5,
       "maxTickets": 0,
       "duration": "PT2H",
       "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/505406540/676x380.webp",
-      "venue": null
+      "venue": {
+        "name": "Endava Newcastle",
+        "lat": -32.926075,
+        "lng": 151.7626,
+        "address": "8/710 Hunter Street",
+        "city": "Newcastle"
+      }
     },
     "group": {
       "name": "Newcastle Coders Group",
