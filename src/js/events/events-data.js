@@ -1,9 +1,9 @@
-// Auto Generated on 2025-08-11T13:31:45.702Z
+// Auto Generated on 2025-08-12T13:28:14.984Z
  module.exports = [
   {
     "event": {
-      "title": "WGDPTech Meet-up August",
-      "description": "We're back again for another meet-up in August. Watch this space for further announcements on speakers :)\n\n**5:30PM:** The event starts with a catch-up\n**6:00PM:** The presentation will begin\n\nWe'll gather at the NewyTechPeople office at 9 Downie St, Maryville NSW for this event.\n\nEveryone is welcome to this event, regardless of gender- so share it with your friends. Through these speaker events, we aim to share experiences and knowledge, that's how we learn, and that's how we can improve the community for everyone. We provide food, so let us know of any allergies :)",
+      "title": "WGDPTech Meet-up August: Casual Catch-up",
+      "description": "Shake off the Winter blues with a casual catch-up at Honeysuckle Hotel. We'll be there with some casual (and fun) games to get you thinking, and networking aplenty. Whether this is your first meetup or one of many, we'd love to see you there!\n\n**5:30PM:** We'll be at Honeysuckle Hotel, with a table resevered for Sarah, inside (to keep nice and warm)\n**6:00PM:** Sarah has prepared some fun (optional) games!\n\nEveryone is welcome to this event, regardless of gender - so share it with your friends.",
       "dateTime": "2025-08-14T17:30+10:00",
       "eventUrl": "https://www.meetup.com/newcastle-women-and-gender-diverse-people-in-tech/events/308746146",
       "going": 8,
@@ -11,11 +11,11 @@
       "duration": "PT2H",
       "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/518951708/676x380.webp",
       "venue": {
-        "name": "9 Downie St",
-        "lat": -32.912266,
-        "lng": 151.75763,
-        "address": "9 Downie St",
-        "city": "Maryville"
+        "name": "Honeysuckle Hotel",
+        "lat": -32.926052,
+        "lng": 151.76622,
+        "address": "Lot 31/ Wharf C, Honeysuckle Drive",
+        "city": "Newcastle"
       }
     },
     "group": {
