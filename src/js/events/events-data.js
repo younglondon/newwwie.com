@@ -1,4 +1,4 @@
-// Auto Generated on 2025-08-12T13:28:14.984Z
+// Auto Generated on 2025-08-13T13:29:10.756Z
  module.exports = [
   {
     "event": {
@@ -6,7 +6,7 @@
       "description": "Shake off the Winter blues with a casual catch-up at Honeysuckle Hotel. We'll be there with some casual (and fun) games to get you thinking, and networking aplenty. Whether this is your first meetup or one of many, we'd love to see you there!\n\n**5:30PM:** We'll be at Honeysuckle Hotel, with a table resevered for Sarah, inside (to keep nice and warm)\n**6:00PM:** Sarah has prepared some fun (optional) games!\n\nEveryone is welcome to this event, regardless of gender - so share it with your friends.",
       "dateTime": "2025-08-14T17:30+10:00",
       "eventUrl": "https://www.meetup.com/newcastle-women-and-gender-diverse-people-in-tech/events/308746146",
-      "going": 8,
+      "going": 9,
       "maxTickets": 40,
       "duration": "PT2H",
       "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/518951708/676x380.webp",
@@ -39,7 +39,7 @@
       "description": "🗣️**Talk Title**: *How we are building a National Energy Analysis Centre from the ground up*\n\n🎙️**Speaker Bio**: *Dr Stephen Craig leads the Energy Analysis Centre at CSIRO, Australia’s national science agency. With more than 25 years of experience, he has worked across digital engineering, Data science and technology system development.*\n\n*Before joining CSIRO, Stephen headed Boeing Defence Australia’s national Digital Engineering centre of excellence and served as Head of Strategy at a spatial data analytics start-up.*\n\n*He holds a PhD in climate system modelling from Stockholm University and spent several years in Sweden in senior roles at Ericsson, leading research and optimisation in mobile communication systems.*\n\n🕒 **When**: 21 August 5.30pm-7.30pm\n🏢 **Venue**: NewyTechPeople Offices L2, 9 Downie St, Maryville NSW 2293\n[https://maps.app.goo.gl/aX26f7miSHQ7Axah7](https://maps.app.goo.gl/aX26f7miSHQ7Axah7)\n**SCHEDULE:**\n\n* 5:30pm: Networking + Food + Drinks\n\n(Don't stress if you are held up in traffic)\n\n* 6:15pm: Presentation\n* 7:15pm: Packing up + Bonus questions\n* 7:30pm: Close\n* 7:30pm+: [Unofficially] anyone wanting to continue chatting.",
       "dateTime": "2025-08-21T17:30+10:00",
       "eventUrl": "https://www.meetup.com/hunter-data-analytics/events/303852213",
-      "going": 15,
+      "going": 16,
       "maxTickets": 0,
       "duration": "PT2H",
       "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/529487562/676x380.webp",
@@ -126,7 +126,7 @@
       "description": "**EOI Call for Speakers** 🗣️🎙️\n[https://forms.gle/fnWkDmzmdPvs7z7WA](https://forms.gle/fnWkDmzmdPvs7z7WA)\nWe are yet to lock in a speaker for this month. You can always submit an expression of interest through the above Google Form or join [Newwwie Slack](https://newwwie.com/#invite) and call out in the [Newwwie Slack #Hunter-data-analytics-meetup channel](https://newwwie.slack.com/archives/C087ELRJ4CC)\n\n🗣️**Talk Description**: TBD\n\n🎙️**Speaker Bio**: TBD\n\n🏢 **Venue**: NewyTechPeople Offices L2, 9 Downie St, Maryville NSW 2293\n\n[https://maps.app.goo.gl/QssJqKTbwyaKQMxu9](https://maps.app.goo.gl/QssJqKTbwyaKQMxu9)\n\n* We will meet on the Level 2 Seminar Space.\n\n##-------------------------------------------------------------------##\n\n🕠 TIME: 5.30pm - 7.30pm\n\nFOOD: 🍕 + 🥤\n\n* Wood fired pizza, sponsored by NewyTechPeople\n* Soft drinks\n\nSCHEDULE:\n\n* 5:30pm: Networking + Food + Drinks\n\n(Don't stress if you are held up in traffic)\n\n* 6:15pm: Presentation\n* 7:15pm: Packing up + Bonus questions\n* 7:30pm: Close\n* 7:30pm+: [Unofficially] anyone wanting to continue chatting, we usually head to a bar (The Maryville Tavern) which is a short walk from the venue.\n\n##-------------------------------------------------------------------##\n**CHARTS 📊 & CHATS 🍻 - Social Drinks**\n*Backup plan in case of no speaker lined up.*\n##-------------------------------------------------------------------##\n\nNo speaker this month, but look forward to more talks in coming months.\nThe Maryville Tavern is where we usually go after our events. There is no booking but we will try and gather some tables, likely out the back.\nIf you can't find us, call out in the [Newwwie Slack #Hunter-data-analytics-meetup channel](https://newwwie.slack.com/archives/C087ELRJ4CC) and we'll direct you.\n\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\n🕒 **When**: Third Thursday of the Month 5.30pm-7.30pm\n🏢 **Venue**: The Maryville Tavern, Maryville\n[https://maps.app.goo.gl/aX26f7miSHQ7Axah7](https://maps.app.goo.gl/aX26f7miSHQ7Axah7)",
       "dateTime": "2025-09-18T17:30+10:00",
       "eventUrl": "https://www.meetup.com/hunter-data-analytics/events/303852218",
-      "going": 1,
+      "going": 2,
       "maxTickets": 0,
       "duration": "PT2H",
       "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/521973471/676x380.webp",
