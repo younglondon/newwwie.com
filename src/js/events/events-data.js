@@ -1,38 +1,5 @@
-// Auto Generated on 2025-08-13T13:29:10.756Z
+// Auto Generated on 2025-08-14T13:29:35.326Z
  module.exports = [
-  {
-    "event": {
-      "title": "WGDPTech Meet-up August: Casual Catch-up",
-      "description": "Shake off the Winter blues with a casual catch-up at Honeysuckle Hotel. We'll be there with some casual (and fun) games to get you thinking, and networking aplenty. Whether this is your first meetup or one of many, we'd love to see you there!\n\n**5:30PM:** We'll be at Honeysuckle Hotel, with a table resevered for Sarah, inside (to keep nice and warm)\n**6:00PM:** Sarah has prepared some fun (optional) games!\n\nEveryone is welcome to this event, regardless of gender - so share it with your friends.",
-      "dateTime": "2025-08-14T17:30+10:00",
-      "eventUrl": "https://www.meetup.com/newcastle-women-and-gender-diverse-people-in-tech/events/308746146",
-      "going": 9,
-      "maxTickets": 40,
-      "duration": "PT2H",
-      "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/518951708/676x380.webp",
-      "venue": {
-        "name": "Honeysuckle Hotel",
-        "lat": -32.926052,
-        "lng": 151.76622,
-        "address": "Lot 31/ Wharf C, Honeysuckle Drive",
-        "city": "Newcastle"
-      }
-    },
-    "group": {
-      "name": "Women & Gender Diverse People in Tech",
-      "urlname": "newcastle-women-and-gender-diverse-people-in-tech",
-      "groupPhoto": {
-        "id": "516565764",
-        "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
-        "preview": null
-      },
-      "logo": {
-        "id": "516565764",
-        "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
-        "preview": null
-      }
-    }
-  },
   {
     "event": {
       "title": "How we are building a National Energy Analysis Centre from the ground up",
