@@ -1,4 +1,4 @@
-// Auto Generated on 2025-08-17T13:21:33.262Z
+// Auto Generated on 2025-08-18T13:29:55.124Z
  module.exports = [
   {
     "event": {
@@ -6,7 +6,7 @@
       "description": "🗣️**Talk Title**: *How we are building a National Energy Analysis Centre from the ground up*\n\n🎙️**Speaker Bio**: *Dr Stephen Craig leads the Energy Analysis Centre at CSIRO, Australia’s national science agency. With more than 25 years of experience, he has worked across digital engineering, Data science and technology system development.*\n\n*Before joining CSIRO, Stephen headed Boeing Defence Australia’s national Digital Engineering centre of excellence and served as Head of Strategy at a spatial data analytics start-up.*\n\n*He holds a PhD in climate system modelling from Stockholm University and spent several years in Sweden in senior roles at Ericsson, leading research and optimisation in mobile communication systems.*\n\n🕒 **When**: 21 August 5.30pm-7.30pm\n🏢 **Venue**: NewyTechPeople Offices L2, 9 Downie St, Maryville NSW 2293\n[https://maps.app.goo.gl/aX26f7miSHQ7Axah7](https://maps.app.goo.gl/aX26f7miSHQ7Axah7)\n**SCHEDULE:**\n\n* 5:30pm: Networking + Food + Drinks\n\n(Don't stress if you are held up in traffic)\n\n* 6:15pm: Presentation\n* 7:15pm: Packing up + Bonus questions\n* 7:30pm: Close\n* 7:30pm+: [Unofficially] anyone wanting to continue chatting.",
       "dateTime": "2025-08-21T17:30+10:00",
       "eventUrl": "https://www.meetup.com/hunter-data-analytics/events/303852213",
-      "going": 20,
+      "going": 22,
       "maxTickets": 0,
       "duration": "PT2H",
       "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/529487562/676x380.webp",
@@ -39,7 +39,7 @@
       "description": "This is a save-the-date event\n\n**Event details:**\n\nVenue: 16 Honeysuckle Drive, Newcastle (The University of Newcastle 'Q Building') - second floor\n\nFood: PIZZAS Provided, please inform us of dietary requirements when RSVPing\n\nDrink: Non-alcoholic provided\n\n**Getting there/parking/public transport:**\n\n* Event location is [here](https://goo.gl/maps/rCqoDx8MbjqyeHTMA)\n* Please try and get in the door before 6:10pm. We check occasionally but you might get stuck outside in the cold for a while.\n* The [car park behind the building](https://goo.gl/maps/FzNNQfbAxxW38GNr7) is free after 5PM, and generally has plenty of room.\n* The closest public transport point is [Honeysuckle Light Rail Station](https://goo.gl/maps/3P2BpkiMaCeZ8isk9), which will take you to Newcastle Interchange and beyond every \\~7min or so. Walk along Honeysuckle Drive for a better-lit pathway.\n\n**The rest:**\n\nIf you’re experiencing any symptoms representative of COVID-19, please don’t attend. We’ll miss you, but the health/safety of attendees is paramount.\n\nNCSG is a community group determined to improve and uplift the Newcastle cybersecurity community. We meet monthly (on the last Wednesday of each month) and have a bunch of interesting speakers, from local legends to heavy hitters in the enterprise world.\n\n**Want to learn more?** Be sure to follow us on [LinkedIn](https://www.linkedin.com/company/newcastlecybersecuritygroup/) or visit newwwie.com, join the community and come and chat in the #security channel.\n\n**Keen on speaking? Reach out at the event, or message us here.**",
       "dateTime": "2025-08-27T18:00+10:00",
       "eventUrl": "https://www.meetup.com/newcastle-cyber-security-group/events/307362832",
-      "going": 4,
+      "going": 6,
       "maxTickets": 0,
       "duration": "PT3H",
       "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/483205216/676x380.webp",
@@ -66,7 +66,7 @@
       "description": "More info soon",
       "dateTime": "2025-09-03T18:00+10:00",
       "eventUrl": "https://www.meetup.com/newcastle-coders-group/events/309649236",
-      "going": 5,
+      "going": 8,
       "maxTickets": 0,
       "duration": "PT2H",
       "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/505406540/676x380.webp",
