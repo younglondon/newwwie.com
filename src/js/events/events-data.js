@@ -1,4 +1,4 @@
-// Auto Generated on 2025-08-19T13:23:13.907Z
+// Auto Generated on 2025-08-20T13:24:36.178Z
  module.exports = [
   {
     "event": {
@@ -6,7 +6,7 @@
       "description": "🗣️**Talk Title**: *How we are building a National Energy Analysis Centre from the ground up*\n\n🎙️**Speaker Bio**: *Dr Stephen Craig leads the Energy Analysis Centre at CSIRO, Australia’s national science agency. With more than 25 years of experience, he has worked across digital engineering, Data science and technology system development.*\n\n*Before joining CSIRO, Stephen headed Boeing Defence Australia’s national Digital Engineering centre of excellence and served as Head of Strategy at a spatial data analytics start-up.*\n\n*He holds a PhD in climate system modelling from Stockholm University and spent several years in Sweden in senior roles at Ericsson, leading research and optimisation in mobile communication systems.*\n\n🕒 **When**: 21 August 5.30pm-7.30pm\n🏢 **Venue**: NewyTechPeople Offices L2, 9 Downie St, Maryville NSW 2293\n[https://maps.app.goo.gl/aX26f7miSHQ7Axah7](https://maps.app.goo.gl/aX26f7miSHQ7Axah7)\n**SCHEDULE:**\n\n* 5:30pm: Networking + Food + Drinks\n\n(Don't stress if you are held up in traffic)\n\n* 6:15pm: Presentation\n* 7:15pm: Packing up + Bonus questions\n* 7:30pm: Close\n* 7:30pm+: [Unofficially] anyone wanting to continue chatting.",
       "dateTime": "2025-08-21T17:30+10:00",
       "eventUrl": "https://www.meetup.com/hunter-data-analytics/events/303852213",
-      "going": 23,
+      "going": 25,
       "maxTickets": 0,
       "duration": "PT2H",
       "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/529487562/676x380.webp",
@@ -66,7 +66,7 @@
       "description": "More info soon",
       "dateTime": "2025-09-03T18:00+10:00",
       "eventUrl": "https://www.meetup.com/newcastle-coders-group/events/309649236",
-      "going": 8,
+      "going": 10,
       "maxTickets": 0,
       "duration": "PT2H",
       "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/505406540/676x380.webp",
