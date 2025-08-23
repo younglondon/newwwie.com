@@ -1,4 +1,4 @@
-// Auto Generated on 2025-08-22T13:22:17.919Z
+// Auto Generated on 2025-08-23T13:18:27.039Z
  module.exports = [
   {
     "event": {
@@ -33,7 +33,7 @@
       "description": "More info soon",
       "dateTime": "2025-09-03T18:00+10:00",
       "eventUrl": "https://www.meetup.com/newcastle-coders-group/events/309649236",
-      "going": 10,
+      "going": 11,
       "maxTickets": 0,
       "duration": "PT2H",
       "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/505406540/676x380.webp",
