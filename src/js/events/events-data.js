@@ -1,4 +1,4 @@
-// Auto Generated on 2025-09-01T13:22:37.945Z
+// Auto Generated on 2025-09-02T13:23:18.542Z
  module.exports = [
   {
     "event": {
@@ -6,7 +6,7 @@
       "description": "This month we've got two talks:\n\n* Ryder Retzlaff on writing code with agents\n* Klee Thomas on strategies for defending against web scrapers.\n\nWe'd like to thank our sponsors:\n\n* Newy Tech People\n* Saphi Engineering\n* Endava Newcastle\n\nAbout the talks:\n**Developing with Agents - Ryder Retzlaff**\nIf you think that using Co-Pilot to auto-complete code in your IDE is the way to use AI to build software, then you're sorely mistaken. The future is agents. Ryder is going to take us through how he's been building real software for real projects using agents. This is so much more than Nick from Marketing sending you a link to localhost:3000, asking why his JavaScript application has a null pointer exception.\n\n**Scrapping Scrappers - Klee Thomas**\nWeb Scraping is a key part of how the web works, and for a long time, scrapers played by a set of rules. Recently, with the surge in valuations of AI companies, scrapers have gone dark. The pressure put on Wikimedia, scientific journals, and FOSS projects means we need to fight back. Klee will take you through a look a what your options are if you want to block the bots and scrap the scrapers",
       "dateTime": "2025-09-03T18:00+10:00",
       "eventUrl": "https://www.meetup.com/newcastle-coders-group/events/309649236",
-      "going": 34,
+      "going": 39,
       "maxTickets": 0,
       "duration": "PT3H",
       "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/505406540/676x380.webp",
