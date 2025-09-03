@@ -1,45 +1,12 @@
-// Auto Generated on 2025-09-02T13:23:18.542Z
+// Auto Generated on 2025-09-03T13:20:57.745Z
  module.exports = [
-  {
-    "event": {
-      "title": "September: Coding with Agents - Ryder Retzlaff; Scrapping Scrapers - Klee Thomas",
-      "description": "This month we've got two talks:\n\n* Ryder Retzlaff on writing code with agents\n* Klee Thomas on strategies for defending against web scrapers.\n\nWe'd like to thank our sponsors:\n\n* Newy Tech People\n* Saphi Engineering\n* Endava Newcastle\n\nAbout the talks:\n**Developing with Agents - Ryder Retzlaff**\nIf you think that using Co-Pilot to auto-complete code in your IDE is the way to use AI to build software, then you're sorely mistaken. The future is agents. Ryder is going to take us through how he's been building real software for real projects using agents. This is so much more than Nick from Marketing sending you a link to localhost:3000, asking why his JavaScript application has a null pointer exception.\n\n**Scrapping Scrappers - Klee Thomas**\nWeb Scraping is a key part of how the web works, and for a long time, scrapers played by a set of rules. Recently, with the surge in valuations of AI companies, scrapers have gone dark. The pressure put on Wikimedia, scientific journals, and FOSS projects means we need to fight back. Klee will take you through a look a what your options are if you want to block the bots and scrap the scrapers",
-      "dateTime": "2025-09-03T18:00+10:00",
-      "eventUrl": "https://www.meetup.com/newcastle-coders-group/events/309649236",
-      "going": 39,
-      "maxTickets": 0,
-      "duration": "PT3H",
-      "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/505406540/676x380.webp",
-      "venue": {
-        "name": "Endava Newcastle",
-        "lat": -32.926075,
-        "lng": 151.7626,
-        "address": "8/710 Hunter Street",
-        "city": "Newcastle"
-      }
-    },
-    "group": {
-      "name": "Newcastle Coders Group",
-      "urlname": "newcastle-coders-group",
-      "groupPhoto": {
-        "id": "505406540",
-        "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
-        "preview": null
-      },
-      "logo": {
-        "id": "505406540",
-        "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
-        "preview": null
-      }
-    }
-  },
   {
     "event": {
       "title": "WGDPTech Meet-up: Getting through what you're going through with Sarah Frazer",
       "description": "We're back again for another meet-up in September! We'll be hearing from Sarah Frazer on strategies she's picked up for getting through what you're going through.\n\nAs a professional of going through it, Sarah has spent far too long examining the nature of resilence and how people keep on keeping on when everything feels like it's crashing down around you. Join us to hear about her journey through burnout, grief and battling the system all while maintaining a semi-human shape. Sarah shares what she's learnt to do and avoid, and her insights on the power of getting through things simply because there isn't any other choice.\n\n**The speaker:**\nSarah has collected job titles like she collects most other things; to excess. From Science Communicator at CSIRO to Operations Lead at NTP then Power Apps Battler with Fraztec, she's seen a variety of industries, how they vary, and the threads and patterns that connect them. In her free time she Chaired SlashNEW, runs Coded Diversity and has too many hobbies to list.\n\n**5:30PM:** The event starts with a catch-up\n**6:00PM:** The presentation will begin\n\nWe'll gather at the NewyTechPeople office at 9 Downie St, Maryville NSW for this event.\n\nEveryone is welcome to this event, regardless of gender- so share it with your friends. Through these speaker events, we aim to share experiences and knowledge, that's how we learn, and that's how we can improve the community for everyone. We provide food, so let us know of any allergies :)",
       "dateTime": "2025-09-11T17:30+10:00",
       "eventUrl": "https://www.meetup.com/newcastle-women-and-gender-diverse-people-in-tech/events/310723149",
-      "going": 4,
+      "going": 5,
       "maxTickets": 40,
       "duration": "PT2H",
       "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/518951708/676x380.webp",
@@ -105,7 +72,7 @@
       "description": "More info soon",
       "dateTime": "2025-10-01T18:00+10:00",
       "eventUrl": "https://www.meetup.com/newcastle-coders-group/events/309649254",
-      "going": 1,
+      "going": 2,
       "maxTickets": 0,
       "duration": "PT2H",
       "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/505406540/676x380.webp",
