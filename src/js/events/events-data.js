@@ -1,4 +1,4 @@
-// Auto Generated on 2025-09-03T13:20:57.745Z
+// Auto Generated on 2025-09-04T13:20:11.226Z
  module.exports = [
   {
     "event": {
@@ -68,11 +68,11 @@
   },
   {
     "event": {
-      "title": "October",
-      "description": "More info soon",
+      "title": "October: Elena Scifleet",
+      "description": "We'll be on in October with Elena Scifleet as our speaker.\n\nWe'd like to thank our sponsors:\n\n* Newy Tech People\n* Saphi Engineering\n* Endava Newcastle",
       "dateTime": "2025-10-01T18:00+10:00",
       "eventUrl": "https://www.meetup.com/newcastle-coders-group/events/309649254",
-      "going": 2,
+      "going": 3,
       "maxTickets": 0,
       "duration": "PT2H",
       "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/505406540/676x380.webp",
@@ -155,8 +155,8 @@
   },
   {
     "event": {
-      "title": "November",
-      "description": "More details soon",
+      "title": "November: Ash Guy - Old man yells at the internet: Getting into AI without be...",
+      "description": "In November we'll have Ash Guy giving us his talk \"An old man yells at the internet: Getting into AI without becoming insufferable\"\n\nWe'd like to thank our sponsors:\n\n* Endava Newcastle\n* Newy Tech People\n* Saphi Engineering",
       "dateTime": "2025-11-05T18:00+11:00",
       "eventUrl": "https://www.meetup.com/newcastle-coders-group/events/309649292",
       "going": 1,
@@ -235,6 +235,33 @@
       },
       "logo": {
         "id": "483205216",
+        "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+        "preview": null
+      }
+    }
+  },
+  {
+    "event": {
+      "title": "December: Probably trivia",
+      "description": "December will be 20 years of the Newcastle Coders Group.\nWe'll probably be doing trivia again.\nThis is currently closed for RSVPs while we explore better options for engaging the wider community.",
+      "dateTime": "2025-12-03T19:00+11:00",
+      "eventUrl": "https://www.meetup.com/newcastle-coders-group/events/309649815",
+      "going": 1,
+      "maxTickets": 1,
+      "duration": "PT2H",
+      "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/505406540/676x380.webp",
+      "venue": null
+    },
+    "group": {
+      "name": "Newcastle Coders Group",
+      "urlname": "newcastle-coders-group",
+      "groupPhoto": {
+        "id": "505406540",
+        "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+        "preview": null
+      },
+      "logo": {
+        "id": "505406540",
         "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
         "preview": null
       }
