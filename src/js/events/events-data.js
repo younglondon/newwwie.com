@@ -1,4 +1,4 @@
-// Auto Generated on 2025-09-05T13:19:57.890Z
+// Auto Generated on 2025-09-06T13:13:59.906Z
  module.exports = [
   {
     "event": {
@@ -6,7 +6,7 @@
       "description": "We're back again for another meet-up in September! We'll be hearing from Sarah Frazer on strategies she's picked up for getting through what you're going through.\n\nAs a professional of going through it, Sarah has spent far too long examining the nature of resilence and how people keep on keeping on when everything feels like it's crashing down around you. Join us to hear about her journey through burnout, grief and battling the system all while maintaining a semi-human shape. Sarah shares what she's learnt to do and avoid, and her insights on the power of getting through things simply because there isn't any other choice.\n\n**The speaker:**\nSarah has collected job titles like she collects most other things; to excess. From Science Communicator at CSIRO to Operations Lead at NTP then Power Apps Battler with Fraztec, she's seen a variety of industries, how they vary, and the threads and patterns that connect them. In her free time she Chaired SlashNEW, runs Coded Diversity and has too many hobbies to list.\n\n**5:30PM:** The event starts with a catch-up\n**6:00PM:** The presentation will begin\n\nWe'll gather at the NewyTechPeople office at 9 Downie St, Maryville NSW for this event.\n\nEveryone is welcome to this event, regardless of gender- so share it with your friends. Through these speaker events, we aim to share experiences and knowledge, that's how we learn, and that's how we can improve the community for everyone. We provide food, so let us know of any allergies :)",
       "dateTime": "2025-09-11T17:30+10:00",
       "eventUrl": "https://www.meetup.com/newcastle-women-and-gender-diverse-people-in-tech/events/310723149",
-      "going": 5,
+      "going": 6,
       "maxTickets": 40,
       "duration": "PT2H",
       "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/518951708/676x380.webp",
