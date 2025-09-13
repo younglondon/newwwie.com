@@ -1,4 +1,4 @@
-// Auto Generated on 2025-09-12T13:18:37.595Z
+// Auto Generated on 2025-09-13T13:14:00.936Z
  module.exports = [
   {
     "event": {
@@ -6,7 +6,7 @@
       "description": "We'll be on in October with Elena Scifleet as our speaker.\n\nWe'd like to thank our sponsors:\n\n* Newy Tech People\n* Saphi Engineering\n* Endava Newcastle",
       "dateTime": "2025-10-01T18:00+10:00",
       "eventUrl": "https://www.meetup.com/newcastle-coders-group/events/309649254",
-      "going": 4,
+      "going": 5,
       "maxTickets": 0,
       "duration": "PT2H",
       "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/505406540/676x380.webp",
