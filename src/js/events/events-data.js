@@ -1,9 +1,9 @@
-// Auto Generated on 2025-09-14T13:13:45.397Z
+// Auto Generated on 2025-09-15T13:21:01.055Z
  module.exports = [
   {
     "event": {
-      "title": "October: Elena Scifleet",
-      "description": "We'll be on in October with Elena Scifleet as our speaker.\n\nWe'd like to thank our sponsors:\n\n* Newy Tech People\n* Saphi Engineering\n* Endava Newcastle",
+      "title": "October: Elena Scifleet, Kyle Chapman.",
+      "description": "We'll be on in October with two speakers Elena Scifleet giving us her talk about the Million Dollar Mistake and Kyle Chapman taking us through insights from the Newy Tech People salary guide.\n\nElena is a long serving Cyber Security professional and regular conference speaker. She hasn't given us any clue as to what the Million Dollar mistake is but we know it will be something that you'll want to hear about.\n\nKyle Chapman is a regular part of the Newcastle technology scene, you can see him at most meetups. This month he'll be taking the plunge and giving his first talk. He'll be taking us through insights, and more importantly how to read the Newy Tech People salary guide so that you can take meaningful information away from it.\n\nWe'd like to thank our sponsors:\n\n* Newy Tech People\n* Saphi Engineering\n* Endava Newcastle",
       "dateTime": "2025-10-01T18:00+10:00",
       "eventUrl": "https://www.meetup.com/newcastle-coders-group/events/309649254",
       "going": 6,
