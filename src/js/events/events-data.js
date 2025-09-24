@@ -1,4 +1,4 @@
-// Auto Generated on 2025-09-23T13:21:29.633Z
+// Auto Generated on 2025-09-24T13:21:43.328Z
  module.exports = [
   {
     "event": {
@@ -6,7 +6,7 @@
       "description": "We'll be on in October with Kyle Chapman taking us through insights from the Newy Tech People salary guide.\n\nKyle Chapman is a regular part of the Newcastle technology scene, you can see him at most meetups. This month he'll be taking the plunge and giving his first talk. He'll be taking us through insights, and more importantly how to read the Newy Tech People salary guide so that you can take meaningful information away from it.\n\nWe'd like to thank our sponsors:\n\n* Newy Tech People\n* Saphi Engineering\n* Endava Newcastle",
       "dateTime": "2025-10-01T18:00+10:00",
       "eventUrl": "https://www.meetup.com/newcastle-coders-group/events/309649254",
-      "going": 16,
+      "going": 17,
       "maxTickets": 0,
       "duration": "PT2H",
       "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/505406540/676x380.webp",
