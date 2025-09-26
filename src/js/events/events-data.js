@@ -1,4 +1,4 @@
-// Auto Generated on 2025-09-25T13:22:44.824Z
+// Auto Generated on 2025-09-26T13:20:55.025Z
  module.exports = [
   {
     "event": {
@@ -6,7 +6,7 @@
       "description": "We'll be on in October with Kyle Chapman taking us through insights from the Newy Tech People salary guide and Cole Cornford giving a yet to be titled talk.\n\nKyle Chapman is a regular part of the Newcastle technology scene, you can see him at most meetups. This month he'll be taking the plunge and giving his first talk. He'll be taking us through insights, and more importantly how to read the Newy Tech People salary guide so that you can take meaningful information away from it.\n\nCole Cornford is the founder of Galah Cyber an application security company based out of Newcastle providing training, secure code review and penetration testing services to scale-ups and large enterprises. He's also the host of the Secured podcast giving insights into the application security industry through interviews with professionals.\n\nWe'd like to thank our sponsors:\n\n* Newy Tech People\n* Saphi Engineering\n* Endava Newcastle",
       "dateTime": "2025-10-01T18:00+10:00",
       "eventUrl": "https://www.meetup.com/newcastle-coders-group/events/309649254",
-      "going": 17,
+      "going": 20,
       "maxTickets": 0,
       "duration": "PT2H",
       "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/505406540/676x380.webp",
