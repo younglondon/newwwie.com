@@ -1,12 +1,12 @@
-// Auto Generated on 2025-09-29T13:23:23.437Z
+// Auto Generated on 2025-09-30T13:23:02.302Z
  module.exports = [
   {
     "event": {
       "title": "October: Kyle Chapman, Cole Cornford",
-      "description": "We'll be on in October with Kyle Chapman taking us through insights from the Newy Tech People salary guide and Cole Cornford giving a yet to be titled talk.\n\nKyle Chapman is a regular part of the Newcastle technology scene, you can see him at most meetups. This month he'll be taking the plunge and giving his first talk. He'll be taking us through insights, and more importantly how to read the Newy Tech People salary guide so that you can take meaningful information away from it.\n\nCole Cornford is the founder of Galah Cyber an application security company based out of Newcastle providing training, secure code review and penetration testing services to scale-ups and large enterprises. He's also the host of the Secured podcast giving insights into the application security industry through interviews with professionals.\n\nWe'd like to thank our sponsors:\n\n* Newy Tech People\n* Saphi Engineering\n* Endava Newcastle",
+      "description": "We'll be on in October with Kyle Chapman taking us through insights from the Newy Tech People salary guide and Cole Cornford giving a talk on backdoors in source code.\n\nKyle Chapman is a regular part of the Newcastle technology scene, you can see him at most meetups. This month he'll be taking the plunge and giving his first talk. He'll be taking us through insights, and more importantly how to read the Newy Tech People salary guide so that you can take meaningful information away from it.\n\nCole Cornford is the founder of Galah Cyber, an application security company based out of Newcastle, providing training, secure code review and penetration testing services to scale-ups and large enterprises. He's also the host of the Secured podcast, giving insights into the application security industry through interviews with professionals.\n\nWe'd like to thank our sponsors:\n\n* Newy Tech People\n* Saphi Engineering\n* Endava Newcastle",
       "dateTime": "2025-10-01T18:00+10:00",
       "eventUrl": "https://www.meetup.com/newcastle-coders-group/events/309649254",
-      "going": 22,
+      "going": 21,
       "maxTickets": 0,
       "duration": "PT2H",
       "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/505406540/676x380.webp",
