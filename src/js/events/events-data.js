@@ -1,33 +1,33 @@
-// Auto Generated on 2025-09-30T13:23:02.302Z
+// Auto Generated on 2025-10-01T13:23:22.742Z
  module.exports = [
   {
     "event": {
-      "title": "October: Kyle Chapman, Cole Cornford",
-      "description": "We'll be on in October with Kyle Chapman taking us through insights from the Newy Tech People salary guide and Cole Cornford giving a talk on backdoors in source code.\n\nKyle Chapman is a regular part of the Newcastle technology scene, you can see him at most meetups. This month he'll be taking the plunge and giving his first talk. He'll be taking us through insights, and more importantly how to read the Newy Tech People salary guide so that you can take meaningful information away from it.\n\nCole Cornford is the founder of Galah Cyber, an application security company based out of Newcastle, providing training, secure code review and penetration testing services to scale-ups and large enterprises. He's also the host of the Secured podcast, giving insights into the application security industry through interviews with professionals.\n\nWe'd like to thank our sponsors:\n\n* Newy Tech People\n* Saphi Engineering\n* Endava Newcastle",
-      "dateTime": "2025-10-01T18:00+10:00",
-      "eventUrl": "https://www.meetup.com/newcastle-coders-group/events/309649254",
-      "going": 21,
+      "title": "data.OCT <- TBD Save the date",
+      "description": "**EOI Call for Speakers** 🗣️🎙️\n[https://forms.gle/fnWkDmzmdPvs7z7WA](https://forms.gle/fnWkDmzmdPvs7z7WA)\nWe are yet to lock in a speaker for this month. You can always submit an expression of interest through the above Google Form or join [Newwwie Slack](https://newwwie.com/#invite) and call out in the [Newwwie Slack #Hunter-data-analytics-meetup channel](https://newwwie.slack.com/archives/C087ELRJ4CC)\n\n🗣️**Talk Description**: TBD\n\n🎙️**Speaker Bio**: TBD\n\n🏢 **Venue**: NewyTechPeople Offices L2, 9 Downie St, Maryville NSW 2293\n\n[https://maps.app.goo.gl/QssJqKTbwyaKQMxu9](https://maps.app.goo.gl/QssJqKTbwyaKQMxu9)\n\n* We will meet on the Level 2 Seminar Space.\n\n##-------------------------------------------------------------------##\n\n🕠 TIME: 5.30pm - 7.30pm\n\nFOOD: 🍕 + 🥤\n\n* Wood fired pizza, sponsored by NewyTechPeople\n* Soft drinks\n\nSCHEDULE:\n\n* 5:30pm: Networking + Food + Drinks\n\n(Don't stress if you are held up in traffic)\n\n* 6:15pm: Presentation\n* 7:15pm: Packing up + Bonus questions\n* 7:30pm: Close\n* 7:30pm+: [Unofficially] anyone wanting to continue chatting, we usually head to a bar (The Maryville Tavern) which is a short walk from the venue.\n\n##-------------------------------------------------------------------##\n**CHARTS 📊 & CHATS 🍻 - Social Drinks**\n*Backup plan in case of no speaker lined up.*\n##-------------------------------------------------------------------##\n\nNo speaker this month, but look forward to more talks in coming months.\nThe Maryville Tavern is where we usually go after our events. There is no booking but we will try and gather some tables, likely out the back.\nIf you can't find us, call out in the [Newwwie Slack #Hunter-data-analytics-meetup channel](https://newwwie.slack.com/archives/C087ELRJ4CC) and we'll direct you.\n\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\n🕒 **When**: Third Thursday of the Month 5.30pm-7.30pm\n🏢 **Venue**: The Maryville Tavern, Maryville\n[https://maps.app.goo.gl/aX26f7miSHQ7Axah7](https://maps.app.goo.gl/aX26f7miSHQ7Axah7)",
+      "dateTime": "2025-10-16T17:30+11:00",
+      "eventUrl": "https://www.meetup.com/hunter-data-analytics/events/303852227",
+      "going": 3,
       "maxTickets": 0,
       "duration": "PT2H",
-      "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/505406540/676x380.webp",
+      "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/521973471/676x380.webp",
       "venue": {
-        "name": "Endava Newcastle",
-        "lat": -32.926075,
-        "lng": 151.7626,
-        "address": "8/710 Hunter Street",
-        "city": "Newcastle"
+        "name": "NewyTechPeople",
+        "lat": -32.912285,
+        "lng": 151.75766,
+        "address": "9 Downie Street",
+        "city": "Marysville"
       }
     },
     "group": {
-      "name": "Newcastle Coders Group",
-      "urlname": "newcastle-coders-group",
+      "name": "Hunter Data Analytics",
+      "urlname": "hunter-data-analytics",
       "groupPhoto": {
-        "id": "505406540",
+        "id": "483576656",
         "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
         "preview": null
       },
       "logo": {
-        "id": "505406540",
+        "id": "483576656",
         "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
         "preview": null
       }
@@ -35,14 +35,14 @@
   },
   {
     "event": {
-      "title": "data.OCT <- TBD Save the date",
-      "description": "**EOI Call for Speakers** 🗣️🎙️\n[https://forms.gle/fnWkDmzmdPvs7z7WA](https://forms.gle/fnWkDmzmdPvs7z7WA)\nWe are yet to lock in a speaker for this month. You can always submit an expression of interest through the above Google Form or join [Newwwie Slack](https://newwwie.com/#invite) and call out in the [Newwwie Slack #Hunter-data-analytics-meetup channel](https://newwwie.slack.com/archives/C087ELRJ4CC)\n\n🗣️**Talk Description**: TBD\n\n🎙️**Speaker Bio**: TBD\n\n🏢 **Venue**: NewyTechPeople Offices L2, 9 Downie St, Maryville NSW 2293\n\n[https://maps.app.goo.gl/QssJqKTbwyaKQMxu9](https://maps.app.goo.gl/QssJqKTbwyaKQMxu9)\n\n* We will meet on the Level 2 Seminar Space.\n\n##-------------------------------------------------------------------##\n\n🕠 TIME: 5.30pm - 7.30pm\n\nFOOD: 🍕 + 🥤\n\n* Wood fired pizza, sponsored by NewyTechPeople\n* Soft drinks\n\nSCHEDULE:\n\n* 5:30pm: Networking + Food + Drinks\n\n(Don't stress if you are held up in traffic)\n\n* 6:15pm: Presentation\n* 7:15pm: Packing up + Bonus questions\n* 7:30pm: Close\n* 7:30pm+: [Unofficially] anyone wanting to continue chatting, we usually head to a bar (The Maryville Tavern) which is a short walk from the venue.\n\n##-------------------------------------------------------------------##\n**CHARTS 📊 & CHATS 🍻 - Social Drinks**\n*Backup plan in case of no speaker lined up.*\n##-------------------------------------------------------------------##\n\nNo speaker this month, but look forward to more talks in coming months.\nThe Maryville Tavern is where we usually go after our events. There is no booking but we will try and gather some tables, likely out the back.\nIf you can't find us, call out in the [Newwwie Slack #Hunter-data-analytics-meetup channel](https://newwwie.slack.com/archives/C087ELRJ4CC) and we'll direct you.\n\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\n🕒 **When**: Third Thursday of the Month 5.30pm-7.30pm\n🏢 **Venue**: The Maryville Tavern, Maryville\n[https://maps.app.goo.gl/aX26f7miSHQ7Axah7](https://maps.app.goo.gl/aX26f7miSHQ7Axah7)",
+      "title": "Where Data Meets the Sea - Helping the World Stay Safe on the Water",
+      "description": "🗣️**Talk Title**: *Where Data Meets the Sea - Helping the World Stay Safe on the Water*\n\n🎙️**Speaker &** **Topic Bio**: *Mike McKiernan, the founder of Deckee, will be joining us to provide a general overview of the platform — a leading marine tech solution focused on water safety, navigation, and real-time insights for boaters.*\n\n*Deckee is helping to make waterways safer and more informed by combining live data, official alerts, and user-reported information into a single, accessible platform for recreational and commercial boating communities.*\n\n*Mike will speak about what Deckee does, its impact, and how it works from a product and industry perspective. Joining him will be Jason Kinnear, a Software Engineer at Deckee, who will be available to answer technical questions and provide deeper insight into the platform’s underlying technology.*\n\n🕒 **When**: 16 Oct 5.30pm-7.30pm\n🏢 **Venue**: NewyTechPeople Offices L2, 9 Downie St, Maryville NSW 2293\n🕒 **SCHEDULE:**\n\n* 5:30pm: Networking + Food + Drinks\n\n(Don't stress if you are held up in traffic)\n\n* 6:15pm: Presentation\n* 7:15pm: Packing up + Bonus questions\n* 7:30pm: Close\n* 7:30pm+: [Unofficially] anyone wanting to continue chatting.",
       "dateTime": "2025-10-16T17:30+11:00",
-      "eventUrl": "https://www.meetup.com/hunter-data-analytics/events/303852227",
-      "going": 2,
+      "eventUrl": "https://www.meetup.com/hunter-data-analytics/events/311321193",
+      "going": 3,
       "maxTickets": 0,
       "duration": "PT2H",
-      "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/521973471/676x380.webp",
+      "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/529487562/676x380.webp",
       "venue": {
         "name": "NewyTechPeople",
         "lat": -32.912285,
@@ -99,7 +99,7 @@
       "description": "In November we'll have Ash Guy giving us his talk \"An old man yells at the internet: Getting into AI without becoming insufferable\"\n\nWe'd like to thank our sponsors:\n\n* Endava Newcastle\n* Newy Tech People\n* Saphi Engineering",
       "dateTime": "2025-11-05T18:00+11:00",
       "eventUrl": "https://www.meetup.com/newcastle-coders-group/events/309649292",
-      "going": 1,
+      "going": 2,
       "maxTickets": 0,
       "duration": "PT2H",
       "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/505406540/676x380.webp",
