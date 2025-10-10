@@ -1,4 +1,4 @@
-// Auto Generated on 2025-10-09T13:23:52.055Z
+// Auto Generated on 2025-10-10T13:20:52.360Z
  module.exports = [
   {
     "event": {
@@ -39,7 +39,7 @@
       "description": "🗣️**Talk Title**: *Where Data Meets the Sea - Helping the World Stay Safe on the Water*\n\n🎙️**Speaker &** **Topic Bio**: *Mike McKiernan, the founder of Deckee, will be joining us to provide a general overview of the platform — a leading marine tech solution focused on water safety, navigation, and real-time insights for boaters.*\n\n*Deckee is helping to make waterways safer and more informed by combining live data, official alerts, and user-reported information into a single, accessible platform for recreational and commercial boating communities.*\n\n*Mike will speak about what Deckee does, its impact, and how it works from a product and industry perspective. Joining him will be Jason Kinnear, a Software Engineer at Deckee, who will be available to answer technical questions and provide deeper insight into the platform’s underlying technology.*\n\n🕒 **When**: 16 Oct 5.30pm-7.30pm\n🏢 **Venue**: NewyTechPeople Offices L2, 9 Downie St, Maryville NSW 2293\n🕒 **SCHEDULE:**\n\n* 5:30pm: Networking + Food + Drinks\n\n(Don't stress if you are held up in traffic)\n\n* 6:15pm: Presentation\n* 7:15pm: Packing up + Bonus questions\n* 7:30pm: Close\n* 7:30pm+: [Unofficially] anyone wanting to continue chatting.",
       "dateTime": "2025-10-16T17:30+11:00",
       "eventUrl": "https://www.meetup.com/hunter-data-analytics/events/311321193",
-      "going": 6,
+      "going": 7,
       "maxTickets": 0,
       "duration": "PT2H",
       "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/529487562/676x380.webp",
@@ -99,7 +99,7 @@
       "description": "In November we'll have Ash Guy giving us his talk \"An old man yells at the internet: Getting into AI without becoming insufferable\"\n\nWe'd like to thank our sponsors:\n\n* Endava Newcastle\n* Newy Tech People\n* Saphi Engineering",
       "dateTime": "2025-11-05T18:00+11:00",
       "eventUrl": "https://www.meetup.com/newcastle-coders-group/events/309649292",
-      "going": 2,
+      "going": 3,
       "maxTickets": 0,
       "duration": "PT2H",
       "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/505406540/676x380.webp",
