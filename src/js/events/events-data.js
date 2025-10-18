@@ -1,4 +1,4 @@
-// Auto Generated on 2025-10-17T13:21:05.745Z
+// Auto Generated on 2025-10-18T13:16:33.887Z
  module.exports = [
   {
     "event": {
@@ -33,7 +33,7 @@
       "description": "In November we'll have Ash Guy giving us his talk \"An old man yells at the internet: Getting into AI without becoming insufferable\"\n\nWe'd like to thank our sponsors:\n\n* Endava Newcastle\n* Newy Tech People\n* Saphi Engineering",
       "dateTime": "2025-11-05T18:00+11:00",
       "eventUrl": "https://www.meetup.com/newcastle-coders-group/events/309649292",
-      "going": 3,
+      "going": 5,
       "maxTickets": 0,
       "duration": "PT2H",
       "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/505406540/676x380.webp",
